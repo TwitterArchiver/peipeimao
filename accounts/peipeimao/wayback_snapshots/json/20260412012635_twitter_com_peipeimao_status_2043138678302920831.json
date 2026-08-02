@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043112582937223231",
+    "created_at": "2026-04-12T01:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043138678302920831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286058721",
+          "start": 0,
+          "username": "zelosarang2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043138678302920831",
+    "in_reply_to_user_id": "1286058721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043138468344434947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zelosarang2 主页有啊自己找去吧 我全屏了都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043112582937223231",
+        "created_at": "2026-04-12T01:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043138678302920831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286058721",
+              "start": 0,
+              "username": "zelosarang2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043138678302920831",
+        "in_reply_to_user_id": "1286058721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043138468344434947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zelosarang2 主页有啊自己找去吧 我全屏了都"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286058721",
+        "conversation_id": "2043112582937223231",
+        "created_at": "2026-04-12T01:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043138468344434947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043138468344434947",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043112582937223231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 能不能把他发给我，我想玩弄一下这个小丑🤡的感情🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4592,
+          "following_count": 173,
+          "like_count": 615,
+          "listed_count": 11,
+          "media_count": 107,
+          "tweet_count": 1700
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-21T14:00:42.000Z",
+        "description": "傳播愛與和平\n別看我了，又窮又丑",
+        "id": "1286058721",
+        "name": "Aden（现在卖VPN，男娘打六折）",
+        "pinned_tweet_id": "2042895104147624332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026259967834308608/-ZP9gNXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 382,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 569
+        },
+        "username": "zelosarang2",
+        "verified": false
+      }
+    ]
+  }
+}

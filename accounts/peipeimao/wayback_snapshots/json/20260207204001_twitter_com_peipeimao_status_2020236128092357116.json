@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2020212810970722732",
+    "created_at": "2026-02-07T20:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T21:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020236128092357116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895152488489295872",
+          "start": 0,
+          "username": "yushng1181561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020236128092357116",
+    "in_reply_to_user_id": "1895152488489295872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020229660630790375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushng1181561 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2020212810970722732",
+        "created_at": "2026-02-07T20:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T21:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020236128092357116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895152488489295872",
+              "start": 0,
+              "username": "yushng1181561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020236128092357116",
+        "in_reply_to_user_id": "1895152488489295872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020229660630790375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushng1181561 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895152488489295872",
+        "conversation_id": "2020212810970722732",
+        "created_at": "2026-02-07T20:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T21:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020229660630790375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020229660630790375",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020212810970722732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 我给你买个玩偶吧，不要这样伤害自己了去刀玩偶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 153,
+          "like_count": 382,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 751
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T16:42:34.000Z",
+        "description": "易，来自中国🇨🇳的二次元爱好者喜欢音乐还有游戏，最喜欢的书是《钢铁是怎样炼成的》",
+        "id": "1895152488489295872",
+        "name": "游生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019614758471602176/pIvDN6V7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "username": "yushng1181561",
+        "verified": false
+      }
+    ]
+  }
+}

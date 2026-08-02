@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2015209493727150409",
+    "created_at": "2026-01-25T06:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015309446248026464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015309446248026464",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015209493727150409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 如果痛苦也要分标量级人类存在的意义感情的联系到底在哪，有时候不知道这些人到底是被什么毒害成这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2015209493727150409",
+        "created_at": "2026-01-25T06:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015309446248026464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015309446248026464",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015209493727150409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 如果痛苦也要分标量级人类存在的意义感情的联系到底在哪，有时候不知道这些人到底是被什么毒害成这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "2015209493727150409",
+        "created_at": "2026-01-24T23:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015209493727150409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015209493727150409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些脑残把人类趋利避害的劣根性表现得淋漓尽致 自己痛苦的时候否定别人的感受 穷 长相 学历 社会地位从来不是衡量痛苦的标准 把自己的无能当保护伞了真可笑 没你无能就没有痛苦的资格是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2013410664056832014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 135,
+          "like_count": 243,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 431
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1998406402038272193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5529,
+          "following_count": 128,
+          "like_count": 10020,
+          "listed_count": 10,
+          "media_count": 253,
+          "tweet_count": 5198
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

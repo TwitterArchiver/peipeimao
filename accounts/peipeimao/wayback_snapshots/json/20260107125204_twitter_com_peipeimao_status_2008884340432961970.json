@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008884340432961970",
+    "created_at": "2026-01-07T12:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008884340432961970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duoduolin0/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/duoduolin0/status/2008453131781501378",
+          "start": 47,
+          "url": "https://t.co/Aw2jYAYW2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008884340432961970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008453131781501378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我要笑死了，你以为烟瘾大的能是什么正常人吗就像我爸，所以他们养出了一个Od宝宝这是因果循环 https://t.co/Aw2jYAYW2F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008884340432961970",
+        "created_at": "2026-01-07T12:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008884340432961970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duoduolin0/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/duoduolin0/status/2008453131781501378",
+              "start": 47,
+              "url": "https://t.co/Aw2jYAYW2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008884340432961970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008453131781501378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我要笑死了，你以为烟瘾大的能是什么正常人吗就像我爸，所以他们养出了一个Od宝宝这是因果循环 https://t.co/Aw2jYAYW2F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850053428711718912",
+        "conversation_id": "2008453131781501378",
+        "created_at": "2026-01-06T08:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008453131781501378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astykxs/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/astykxs/status/2007958682525659342",
+              "start": 22,
+              "url": "https://t.co/8xCSJripbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008453131781501378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18923,
+          "like_count": 163,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007958682525659342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽烟的人还能沟通，od的能听得进去人话吗？ https://t.co/8xCSJripbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 113,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 164
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "窝囊生活，屌丝人生",
+        "id": "1850053428711718912",
+        "name": "DDLking👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005821438490730499/4rgrtLyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 270,
+          "like_count": 6316,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1986
+        },
+        "username": "duoduolin0",
+        "verified": false
+      }
+    ]
+  }
+}

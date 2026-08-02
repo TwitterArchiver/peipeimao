@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2029678208128307445",
+    "created_at": "2026-03-05T22:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T23:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029680068725780625"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029680068725780625",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029678208128307445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你甚至还去短信轰炸我的朋友，你是一点也不提啊，骂我朋友是被利用的狗？那我其他朋友找人轰炸回去有什么问题吗，别把自己当受害者了，恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029678193968619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrdkE_bIAAaOk8.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029678193985343488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrdkFDaUAAFTU4.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029678193989570560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrdkFEa0AAZ8VP.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029678194023092224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrdkFMaUAAPMc0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029678208128307445",
+        "created_at": "2026-03-05T22:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T23:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029680068725780625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029680068725780625",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029678208128307445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你甚至还去短信轰炸我的朋友，你是一点也不提啊，骂我朋友是被利用的狗？那我其他朋友找人轰炸回去有什么问题吗，别把自己当受害者了，恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029678193968619520",
+            "3_2029678193985343488",
+            "3_2029678193989570560",
+            "3_2029678194023092224"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029678208128307445",
+        "created_at": "2026-03-05T21:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029678208128307445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "848887445550649354",
+              "start": 63,
+              "username": "123Balzac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhyUiwt588",
+              "end": 97,
+              "expanded_url": "https://x.com/peipeimao/status/2029678208128307445/photo/1",
+              "media_key": "3_2029678193968619520",
+              "start": 74,
+              "url": "https://t.co/ZhyUiwt588"
+            },
+            {
+              "display_url": "pic.x.com/ZhyUiwt588",
+              "end": 97,
+              "expanded_url": "https://x.com/peipeimao/status/2029678208128307445/photo/1",
+              "media_key": "3_2029678193985343488",
+              "start": 74,
+              "url": "https://t.co/ZhyUiwt588"
+            },
+            {
+              "display_url": "pic.x.com/ZhyUiwt588",
+              "end": 97,
+              "expanded_url": "https://x.com/peipeimao/status/2029678208128307445/photo/1",
+              "media_key": "3_2029678193989570560",
+              "start": 74,
+              "url": "https://t.co/ZhyUiwt588"
+            },
+            {
+              "display_url": "pic.x.com/ZhyUiwt588",
+              "end": 97,
+              "expanded_url": "https://x.com/peipeimao/status/2029678208128307445/photo/1",
+              "media_key": "3_2029678194023092224",
+              "start": 74,
+              "url": "https://t.co/ZhyUiwt588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029678208128307445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么只敢在私信造谣我，一点证据都拿不出来？我手机摔了记录丢失，但身边的人都看着并且记得这件事。你这种天天找人约死的还是算了吧@123Balzac https://t.co/ZhyUiwt588"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 168,
+          "like_count": 524,
+          "listed_count": 10,
+          "media_count": 85,
+          "tweet_count": 1345
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

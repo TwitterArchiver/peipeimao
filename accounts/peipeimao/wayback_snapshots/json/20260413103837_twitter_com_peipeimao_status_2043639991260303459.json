@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043639981122723840",
+        "3_2043639981110169600",
+        "3_2043639981114277888"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043639991260303459",
+    "created_at": "2026-04-13T10:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043639991260303459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1nj2lBZBCt",
+          "end": 54,
+          "expanded_url": "https://x.com/peipeimao/status/2043639991260303459/photo/1",
+          "media_key": "3_2043639981122723840",
+          "start": 31,
+          "url": "https://t.co/1nj2lBZBCt"
+        },
+        {
+          "display_url": "pic.x.com/1nj2lBZBCt",
+          "end": 54,
+          "expanded_url": "https://x.com/peipeimao/status/2043639991260303459/photo/1",
+          "media_key": "3_2043639981110169600",
+          "start": 31,
+          "url": "https://t.co/1nj2lBZBCt"
+        },
+        {
+          "display_url": "pic.x.com/1nj2lBZBCt",
+          "end": 54,
+          "expanded_url": "https://x.com/peipeimao/status/2043639991260303459/photo/1",
+          "media_key": "3_2043639981114277888",
+          "start": 31,
+          "url": "https://t.co/1nj2lBZBCt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043639991260303459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想多解释什么了，高下立见吧，身边的朋友一直都有听我讲他好 https://t.co/1nj2lBZBCt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_2043639981122723840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx3vDObIAAk_PZ.jpg",
+        "width": 1169
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043639981110169600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx3vDLbkAA1pxT.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1781,
+        "media_key": "3_2043639981114277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx3vDMaQAAWVVo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043639981122723840",
+            "3_2043639981110169600",
+            "3_2043639981114277888"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043639991260303459",
+        "created_at": "2026-04-13T10:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043639991260303459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nj2lBZBCt",
+              "end": 54,
+              "expanded_url": "https://x.com/peipeimao/status/2043639991260303459/photo/1",
+              "media_key": "3_2043639981122723840",
+              "start": 31,
+              "url": "https://t.co/1nj2lBZBCt"
+            },
+            {
+              "display_url": "pic.x.com/1nj2lBZBCt",
+              "end": 54,
+              "expanded_url": "https://x.com/peipeimao/status/2043639991260303459/photo/1",
+              "media_key": "3_2043639981110169600",
+              "start": 31,
+              "url": "https://t.co/1nj2lBZBCt"
+            },
+            {
+              "display_url": "pic.x.com/1nj2lBZBCt",
+              "end": 54,
+              "expanded_url": "https://x.com/peipeimao/status/2043639991260303459/photo/1",
+              "media_key": "3_2043639981114277888",
+              "start": 31,
+              "url": "https://t.co/1nj2lBZBCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043639991260303459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想多解释什么了，高下立见吧，身边的朋友一直都有听我讲他好 https://t.co/1nj2lBZBCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托纯绿",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605,
+          "following_count": 172,
+          "like_count": 613,
+          "listed_count": 11,
+          "media_count": 112,
+          "tweet_count": 1736
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2023805259836203063",
+    "created_at": "2026-02-17T23:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T00:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023904498239016985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741809979370389505",
+          "start": 0,
+          "username": "jngshjidey66954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023904498239016985",
+    "in_reply_to_user_id": "1741809979370389505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023808460278952296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngshjidey66954 如果有雨是一种天气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2023805259836203063",
+        "created_at": "2026-02-17T23:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023904498239016985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741809979370389505",
+              "start": 0,
+              "username": "jngshjidey66954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023904498239016985",
+        "in_reply_to_user_id": "1741809979370389505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023808460278952296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngshjidey66954 如果有雨是一种天气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741809979370389505",
+        "conversation_id": "2023805259836203063",
+        "created_at": "2026-02-17T17:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023808460278952296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023808460278952296",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023805259836203063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 如果忧芋是一种天赋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 164,
+          "like_count": 490,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 1113
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:14:02.000Z",
+        "description": "",
+        "id": "1741809979370389505",
+        "name": "小小空",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 737,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "jngshjidey66954",
+        "verified": false
+      }
+    ]
+  }
+}

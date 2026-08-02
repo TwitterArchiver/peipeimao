@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2016142420120084955",
+    "created_at": "2026-01-29T08:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016796795335299421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1558684370386399232",
+          "start": 0,
+          "username": "Mizyubvg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016796795335299421",
+    "in_reply_to_user_id": "1558684370386399232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016142420120084955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizyubvg3 这期无可替代"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11168,
+        "height": 720,
+        "media_key": "13_2016142354525388802",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016142354525388802/img/R8n9PPa6l-H3PcRN.jpg",
+        "public_metrics": {
+          "view_count": 2279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016142354525388802/vid/avc1/480x270/y8PWBCFDPidgOk5F.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016142354525388802/vid/avc1/640x360/wj4dNfryScOfU1CH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016142354525388802/vid/avc1/1280x720/09i6vx-GFSCO5x3S.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016142354525388802/pl/yu8WEliZ8HZpkwEt.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2016142420120084955",
+        "created_at": "2026-01-29T08:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016796795335299421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1558684370386399232",
+              "start": 0,
+              "username": "Mizyubvg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016796795335299421",
+        "in_reply_to_user_id": "1558684370386399232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016142420120084955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mizyubvg3 这期无可替代"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016142354525388802"
+          ]
+        },
+        "author_id": "1558684370386399232",
+        "conversation_id": "2016142420120084955",
+        "created_at": "2026-01-27T13:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T14:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016142420120084955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqskAgk824",
+              "end": 38,
+              "expanded_url": "https://x.com/Mizyubvg3/status/2016142420120084955/video/1",
+              "media_key": "13_2016142354525388802",
+              "start": 15,
+              "url": "https://t.co/XqskAgk824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016142420120084955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5794,
+          "like_count": 48,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥吃起来甜甜的奶奶的好喜欢 https://t.co/XqskAgk824"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2013410664056832014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 139,
+          "like_count": 255,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 455
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T05:18:15.000Z",
+        "description": "MIZ｜寡妇门前是非多｜恋人@ButumnLeaves",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "ButumnLeaves"
+              }
+            ]
+          }
+        },
+        "id": "1558684370386399232",
+        "location": "未来",
+        "name": "Mizyu みずゆ",
+        "pinned_tweet_id": "2007811269735358640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685553474875394/FkiYX51u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 429,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 2919
+        },
+        "username": "Mizyubvg3",
+        "verified": false
+      }
+    ]
+  }
+}

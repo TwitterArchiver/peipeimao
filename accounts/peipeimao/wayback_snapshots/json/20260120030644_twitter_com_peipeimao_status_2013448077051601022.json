@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2013257453979189458",
+    "created_at": "2026-01-20T03:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013448077051601022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013414264225308672",
+          "start": 0,
+          "username": "ourakusen3"
+        },
+        {
+          "end": 21,
+          "id": "1966188117163134976",
+          "start": 12,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013448077051601022",
+    "in_reply_to_user_id": "2013414264225308672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013441523120288152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ourakusen3 @auawyzzk 不要这样想呀每个人的痛苦都是一样的痛苦，去比较反而失去了痛苦的意义。如果痛苦也有量值的话人类是真的完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2013257453979189458",
+        "created_at": "2026-01-20T03:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013448077051601022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013414264225308672",
+              "start": 0,
+              "username": "ourakusen3"
+            },
+            {
+              "end": 21,
+              "id": "1966188117163134976",
+              "start": 12,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013448077051601022",
+        "in_reply_to_user_id": "2013414264225308672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013441523120288152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakusen3 @auawyzzk 不要这样想呀每个人的痛苦都是一样的痛苦，去比较反而失去了痛苦的意义。如果痛苦也有量值的话人类是真的完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013414264225308672",
+        "conversation_id": "2013257453979189458",
+        "created_at": "2026-01-20T02:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013441523120288152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            },
+            {
+              "end": 20,
+              "id": "1966188117163134976",
+              "start": 11,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013441523120288152",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013437471984435226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao @auawyzzk 他比我惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 134,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 391
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T00:53:06.000Z",
+        "description": "",
+        "id": "2013414264225308672",
+        "name": "Haoziangni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013419646313975808/qiEOGoWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ourakusen3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "每天挂壁吃拼好饭中 双相 自残 od ⚠️负能很多⚠️ 想要朋友 缺爱逼 00 188 70 林俊杰是神 想下辈子变成小女孩 不友跨",
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2013257453979189458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966192998833860609/HNU7N_cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 63,
+          "like_count": 8552,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 6008
+        },
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

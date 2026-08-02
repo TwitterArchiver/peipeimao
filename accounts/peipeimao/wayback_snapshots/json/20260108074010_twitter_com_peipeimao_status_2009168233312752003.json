@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009168218582339585",
+        "3_2009168218603298816"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2009168233312752003",
+    "created_at": "2026-01-08T07:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T08:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009168233312752003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3e7MWDbwZK",
+          "end": 37,
+          "expanded_url": "https://x.com/peipeimao/status/2009168233312752003/photo/1",
+          "media_key": "3_2009168218582339585",
+          "start": 14,
+          "url": "https://t.co/3e7MWDbwZK"
+        },
+        {
+          "display_url": "pic.x.com/3e7MWDbwZK",
+          "end": 37,
+          "expanded_url": "https://x.com/peipeimao/status/2009168233312752003/photo/1",
+          "media_key": "3_2009168218603298816",
+          "start": 14,
+          "url": "https://t.co/3e7MWDbwZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009168233312752003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们别笑我好吗。。。？好吗 https://t.co/3e7MWDbwZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009168218582339585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H_2Yqa0AEqsPH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009168218603298816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-H_2YvaoAAUhNs.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009168218582339585",
+            "3_2009168218603298816"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2009168233312752003",
+        "created_at": "2026-01-08T07:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009168233312752003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3e7MWDbwZK",
+              "end": 37,
+              "expanded_url": "https://x.com/peipeimao/status/2009168233312752003/photo/1",
+              "media_key": "3_2009168218582339585",
+              "start": 14,
+              "url": "https://t.co/3e7MWDbwZK"
+            },
+            {
+              "display_url": "pic.x.com/3e7MWDbwZK",
+              "end": 37,
+              "expanded_url": "https://x.com/peipeimao/status/2009168233312752003/photo/1",
+              "media_key": "3_2009168218603298816",
+              "start": 14,
+              "url": "https://t.co/3e7MWDbwZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009168233312752003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们别笑我好吗。。。？好吗 https://t.co/3e7MWDbwZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 114,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 178
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

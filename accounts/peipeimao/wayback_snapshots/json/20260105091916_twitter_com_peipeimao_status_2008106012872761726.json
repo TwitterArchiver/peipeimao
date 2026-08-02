@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008105574614094046",
+    "created_at": "2026-01-05T09:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T10:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008106012872761726"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008106012872761726",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008105574614094046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家不要割脖子，割手手算了，如果你活下来了脖子很很很很影响生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008105574614094046",
+        "created_at": "2026-01-05T09:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008106012872761726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008106012872761726",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008105574614094046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不要割脖子，割手手算了，如果你活下来了脖子很很很很影响生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008105574614094046",
+        "created_at": "2026-01-05T09:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008105574614094046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008105574614094046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太无聊乐一直在发旧照片，笨人其实脖子缝针贴纱布躺着，唉互联网，唉当门妹，唉吃药药，唉太酷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "无论转生多少次都要把我找到好吗",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2007192256487534806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 105,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

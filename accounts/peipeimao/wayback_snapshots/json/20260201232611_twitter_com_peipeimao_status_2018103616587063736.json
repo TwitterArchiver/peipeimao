@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2018058740747079920",
+    "created_at": "2026-02-01T23:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T00:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018103616587063736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587848154921111552",
+          "start": 0,
+          "username": "haiA_0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018103616587063736",
+    "in_reply_to_user_id": "1587848154921111552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018083046898188389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiA_0001 她干不了那么聪明的，纯扶手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018058740747079920",
+        "created_at": "2026-02-01T23:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T00:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018103616587063736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587848154921111552",
+              "start": 0,
+              "username": "haiA_0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018103616587063736",
+        "in_reply_to_user_id": "1587848154921111552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018083046898188389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiA_0001 她干不了那么聪明的，纯扶手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587848154921111552",
+        "conversation_id": "2018058740747079920",
+        "created_at": "2026-02-01T22:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T23:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018083046898188389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018083046898188389",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018058740747079920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 天呐😧，我发现你这闺蜜绝对是人口买卖的人才，在东南亚很多这样的货色，专门出卖身边的人去那里卖掉，（园区、会所）疫情的时候更能卖出高价，了不得啊。🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 140,
+          "like_count": 296,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 567
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T16:45:41.000Z",
+        "description": "洼地毒瘴受害者｜自闭的人矿耗材｜一颗不怎么安份的螺丝钉｜因为痛苦而产生疑惑｜因为不解而寻找答案｜向往自由",
+        "id": "1587848154921111552",
+        "name": "愣神的我",
+        "pinned_tweet_id": "2013881780982493379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004467005324423168/EferUXDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1058,
+          "like_count": 5550,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 3467
+        },
+        "username": "haiA_0001",
+        "verified": false
+      }
+    ]
+  }
+}

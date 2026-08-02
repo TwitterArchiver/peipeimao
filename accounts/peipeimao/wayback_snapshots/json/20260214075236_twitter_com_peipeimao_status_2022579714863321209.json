@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022579714863321209",
+    "created_at": "2026-02-14T07:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022579714863321209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/novmber19th/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/novmber19th/status/2022093616966169081",
+          "start": 21,
+          "url": "https://t.co/kQOKXBOGZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022579714863321209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022093616966169081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太喜欢你了所以那个变心的你也想杀掉试试看 https://t.co/kQOKXBOGZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2022093613363343364",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_rbYcbsAQsIg3.jpg",
+        "width": 467
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022579714863321209",
+        "created_at": "2026-02-14T07:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022579714863321209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/novmber19th/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/novmber19th/status/2022093616966169081",
+              "start": 21,
+              "url": "https://t.co/kQOKXBOGZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022579714863321209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022093616966169081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太喜欢你了所以那个变心的你也想杀掉试试看 https://t.co/kQOKXBOGZQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022093613363343364"
+          ]
+        },
+        "author_id": "1756307863272579072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022093616966169081",
+        "created_at": "2026-02-12T23:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022093616966169081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9ANnOGhMj",
+              "end": 66,
+              "expanded_url": "https://x.com/novmber19th/status/2022093616966169081/photo/1",
+              "media_key": "3_2022093613363343364",
+              "start": 43,
+              "url": "https://t.co/y9ANnOGhMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022093616966169081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3063,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "I wna b together like we’re in school days https://t.co/y9ANnOGhMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 160,
+          "like_count": 460,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1023
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T13:23:36.000Z",
+        "description": "stop crying you look ugly",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nauseousarchiv…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nauseousarchive?igsh=MWw3OTNyZHF1emF1Mw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/70Gp0N7LHO"
+              }
+            ]
+          }
+        },
+        "id": "1756307863272579072",
+        "name": "aidan",
+        "pinned_tweet_id": "1909205790600163593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018002485789483010/rXn0uo7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8219,
+          "following_count": 65,
+          "like_count": 10024,
+          "listed_count": 6,
+          "media_count": 379,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/70Gp0N7LHO",
+        "username": "novmber19th",
+        "verified": false
+      }
+    ]
+  }
+}

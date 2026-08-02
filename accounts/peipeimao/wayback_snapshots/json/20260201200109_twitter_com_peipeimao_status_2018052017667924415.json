@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2018032738255937608",
+    "created_at": "2026-02-01T20:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T21:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018052017667924415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706233044439568384",
+          "start": 0,
+          "username": "6RJB036wzL92710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018052017667924415",
+    "in_reply_to_user_id": "1706233044439568384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018044819818627237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6RJB036wzL92710 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018032738255937608",
+        "created_at": "2026-02-01T20:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018052017667924415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706233044439568384",
+              "start": 0,
+              "username": "6RJB036wzL92710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018052017667924415",
+        "in_reply_to_user_id": "1706233044439568384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018044819818627237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6RJB036wzL92710 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706233044439568384",
+        "conversation_id": "2018032738255937608",
+        "created_at": "2026-02-01T19:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018044819818627237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018044819818627237",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018032738255937608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 依旧可怜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 139,
+          "like_count": 291,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 555
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T09:04:01.000Z",
+        "description": "",
+        "id": "1706233044439568384",
+        "location": "Japan",
+        "name": "黑濑令儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013899386812760065/23Omq9S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 199
+        },
+        "username": "6RJB036wzL92710",
+        "verified": false
+      }
+    ]
+  }
+}

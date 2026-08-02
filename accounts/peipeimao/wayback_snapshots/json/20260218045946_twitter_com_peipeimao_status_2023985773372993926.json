@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022689926622621748",
+    "created_at": "2026-02-18T04:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023985773372993926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        },
+        {
+          "end": 29,
+          "id": "2008181604360003584",
+          "start": 15,
+          "username": "Fayoubaike000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023985773372993926",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022689926622621748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin @Fayoubaike000 闺蜜这是在"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15041,
+        "height": 1280,
+        "media_key": "13_2022689864387555328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022689864387555328/img/ftKKCY_FOmxTfGns.jpg",
+        "public_metrics": {
+          "view_count": 26819
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022689864387555328/vid/avc1/320x568/0pHoItSGiEd46DhC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022689864387555328/vid/avc1/480x852/zphe1uAQMRNeTY4i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022689864387555328/vid/avc1/720x1280/EpOFxb3aSn2L6r2a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022689864387555328/pl/d6XGFJ2sRJLikdDG.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022689926622621748",
+        "created_at": "2026-02-18T04:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023985773372993926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            },
+            {
+              "end": 29,
+              "id": "2008181604360003584",
+              "start": 15,
+              "username": "Fayoubaike000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023985773372993926",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022689926622621748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin @Fayoubaike000 闺蜜这是在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022689864387555328"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "2022689926622621748",
+        "created_at": "2026-02-14T15:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022689926622621748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlD7TZvT64",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/2022689926622621748/video/1",
+              "media_key": "13_2022689864387555328",
+              "start": 0,
+              "url": "https://t.co/hlD7TZvT64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022689926622621748",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 16938,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hlD7TZvT64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 164,
+          "like_count": 489,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 1114
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "第二人格@songbansha6606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "songbansha6606"
+              }
+            ]
+          }
+        },
+        "id": "1960389326258495492",
+        "location": "門288",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23485,
+          "following_count": 38,
+          "like_count": 117,
+          "listed_count": 23,
+          "media_count": 71,
+          "tweet_count": 150
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 315,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      }
+    ]
+  }
+}

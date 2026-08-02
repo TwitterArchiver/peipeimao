@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2023376399986483585",
+    "created_at": "2026-02-16T12:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023380788541267999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4832369840",
+          "start": 0,
+          "username": "rethgradu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023380788541267999",
+    "in_reply_to_user_id": "4832369840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023377137911447665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rethgradu 残酷的现实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2023376399986483585",
+        "created_at": "2026-02-16T12:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023380788541267999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4832369840",
+              "start": 0,
+              "username": "rethgradu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023380788541267999",
+        "in_reply_to_user_id": "4832369840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023377137911447665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rethgradu 残酷的现实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4832369840",
+        "conversation_id": "2023376399986483585",
+        "created_at": "2026-02-16T12:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023377137911447665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023377137911447665",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023376399986483585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 好漂亮，有一种残酷诡秘的美感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2989,
+          "following_count": 162,
+          "like_count": 480,
+          "listed_count": 5,
+          "media_count": 67,
+          "tweet_count": 1081
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-29T23:20:54.000Z",
+        "description": "",
+        "id": "4832369840",
+        "name": "Ian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021970410473238529/SeROqDrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 249,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "rethgradu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043078199190655142",
+    "created_at": "2026-04-11T21:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043078199190655142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rosensmarked/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/rosensmarked/status/2042934965793624414",
+          "start": 17,
+          "url": "https://t.co/HURjXDn9ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043078199190655142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042934965793624414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6666还珠宝商人来了，你妈死了 https://t.co/HURjXDn9ku"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043078199190655142",
+        "created_at": "2026-04-11T21:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043078199190655142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rosensmarked/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/rosensmarked/status/2042934965793624414",
+              "start": 17,
+              "url": "https://t.co/HURjXDn9ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043078199190655142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042934965793624414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6666还珠宝商人来了，你妈死了 https://t.co/HURjXDn9ku"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039072056063541248",
+        "conversation_id": "2042913141559038352",
+        "created_at": "2026-04-11T11:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042934965793624414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042934965793624414",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042913141559038352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 实话呀，男人看到满身都是伤痕的女孩子是受不了的，总想自己上去也在你的身上割一割 留下这个世界上只属于我的回忆呢。\n不是处女就不要装纯，好不好呀？就凭你平时的装扮，不是露个沟就是半个屁股，真被强奸也是活该😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4591,
+          "following_count": 177,
+          "like_count": 616,
+          "listed_count": 11,
+          "media_count": 107,
+          "tweet_count": 1680
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T20:07:29.000Z",
+        "description": "正义之路被暴虐之恶人包围，以慈悲与善人为名引导弱者，那些胆敢残害荼毒我同伴之人我将向他们大施报复\n\n思想犯荣誉证书获得者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/licallum",
+                "end": 23,
+                "expanded_url": "https://ngl.link/licallum",
+                "start": 0,
+                "url": "https://t.co/zAGHAX30nM"
+              }
+            ]
+          }
+        },
+        "id": "2039072056063541248",
+        "location": "逆向民族主义",
+        "name": "久远寺有珠 (珠宝商人版)",
+        "pinned_tweet_id": "2042605077651951831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/zAGHAX30nM",
+        "username": "rosensmarked",
+        "verified": false
+      }
+    ]
+  }
+}

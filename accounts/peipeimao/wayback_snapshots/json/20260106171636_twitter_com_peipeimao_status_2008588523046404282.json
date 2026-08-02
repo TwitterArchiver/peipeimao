@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008588309107536213",
+    "created_at": "2026-01-06T17:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T18:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008588523046404282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008588523046404282",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 69,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008588309107536213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "许愿我的父母不要再打扰我的生活，三天了我什么也不想吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008588309107536213",
+        "created_at": "2026-01-06T17:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008588523046404282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008588523046404282",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008588309107536213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "许愿我的父母不要再打扰我的生活，三天了我什么也不想吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008588309107536213",
+        "created_at": "2026-01-06T17:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008588309107536213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008588309107536213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底能够创造什么能给出什么吗？我和这个世界命运的纠缠系带到底是什么，所有的魅力只来源于纯粹但我做不到。要活下去但活下去需要利益，需要社交需要纽带，所有的东西明明都是蒙着纱雾的它们刺伤了我。只是看着这一切，太赤裸了就像大量的血蔓延在身上，回到羊水里回到一切最开始。然后我许愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "无论转生多少次都要把我找到好吗",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2007192256487534806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 112,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 144
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2006908505173930036",
+    "created_at": "2026-01-02T21:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T22:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007206256214437926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1206124886",
+          "start": 0,
+          "username": "TheyCallme26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007206256214437926",
+    "in_reply_to_user_id": "1206124886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006908505173930036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheyCallme26 好美好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2025,
+        "media_key": "3_2006908496160440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9n4pOpbQAASybA.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2006908505173930036",
+        "created_at": "2026-01-02T21:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T22:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007206256214437926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1206124886",
+              "start": 0,
+              "username": "TheyCallme26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007206256214437926",
+        "in_reply_to_user_id": "1206124886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006908505173930036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheyCallme26 好美好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006908496160440320"
+          ]
+        },
+        "author_id": "1206124886",
+        "conversation_id": "2006908505173930036",
+        "created_at": "2026-01-02T02:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T03:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006908505173930036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVgegk4ZjQ",
+              "end": 23,
+              "expanded_url": "https://x.com/TheyCallme26/status/2006908505173930036/photo/1",
+              "media_key": "3_2006908496160440320",
+              "start": 0,
+              "url": "https://t.co/gVgegk4ZjQ"
+            },
+            {
+              "display_url": "x.com/theycallme26/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/theycallme26/status/2006859187649917275",
+              "start": 24,
+              "url": "https://t.co/6TComblYcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006908505173930036",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 1347288,
+          "like_count": 6383,
+          "quote_count": 14,
+          "reply_count": 18,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006859187649917275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/gVgegk4ZjQ https://t.co/6TComblYcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "转生一下吧",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "裴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-21T22:05:42.000Z",
+        "description": "",
+        "id": "1206124886",
+        "location": "خورفكان",
+        "name": "َ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960751219435315200/9-TWTdxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 364,
+          "like_count": 5675,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 13776
+        },
+        "username": "TheyCallme26",
+        "verified": false
+      }
+    ]
+  }
+}

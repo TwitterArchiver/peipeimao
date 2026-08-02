@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2012236991803642135",
+    "created_at": "2026-01-16T23:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T00:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012307522309472637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012307522309472637",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012236991803642135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 我要为了你变成正太控！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6500,
+        "height": 720,
+        "media_key": "13_2012236929832775680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012236929832775680/img/nizdyUmHJHG1mgTg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012236929832775680/vid/avc1/480x270/EuveYOdCSViOg4fD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012236929832775680/vid/avc1/640x360/D3_hBRBlY1Tsqv2w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012236929832775680/vid/avc1/1280x720/KgNCo78n5Qs7xUPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012236929832775680/pl/6XG5-UbbIygStAzF.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2012236991803642135",
+        "created_at": "2026-01-16T23:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T00:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012307522309472637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012307522309472637",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012236991803642135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 我要为了你变成正太控！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012236929832775680"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "2012236991803642135",
+        "created_at": "2026-01-16T18:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T19:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012236991803642135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ibgl5vkYRt",
+              "end": 35,
+              "expanded_url": "https://x.com/jing1234560/status/2012236991803642135/video/1",
+              "media_key": "13_2012236929832775680",
+              "start": 12,
+              "url": "https://t.co/Ibgl5vkYRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012236991803642135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "等一个真心爱我的正太控 https://t.co/Ibgl5vkYRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 130,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 367
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1998406402038272193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5503,
+          "following_count": 126,
+          "like_count": 9944,
+          "listed_count": 10,
+          "media_count": 254,
+          "tweet_count": 5072
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

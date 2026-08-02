@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021502745182867472",
+    "created_at": "2026-02-11T15:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021607696621854968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1252908934500954113",
+          "start": 0,
+          "username": "lajitongyoulaji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021607696621854968",
+    "in_reply_to_user_id": "1252908934500954113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021502745182867472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lajitongyoulaji 所以说不要跟精神病交朋友^_^，说我两句？给我扣什么帽子呢，我粉丝流量就那么一点你还要嫉妒吗？怂恿谁买药了好多人都不会P处方呢，毁掉了谁的人生呀请问举证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021502745182867472",
+        "created_at": "2026-02-11T15:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021607696621854968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1252908934500954113",
+              "start": 0,
+              "username": "lajitongyoulaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021607696621854968",
+        "in_reply_to_user_id": "1252908934500954113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021502745182867472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lajitongyoulaji 所以说不要跟精神病交朋友^_^，说我两句？给我扣什么帽子呢，我粉丝流量就那么一点你还要嫉妒吗？怂恿谁买药了好多人都不会P处方呢，毁掉了谁的人生呀请问举证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252908934500954113",
+        "conversation_id": "2021502745182867472",
+        "created_at": "2026-02-11T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021502745182867472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/peipeimao/status/2021480168267903141",
+              "start": 80,
+              "url": "https://t.co/F2BN3BuZrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021502745182867472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021480168267903141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说 不要跟精神病交朋友 说她两句就精神崩溃要开盒了… 这家伙知道自己粉丝多而且很多人都有渠道买药就怂恿粉丝做这种事，毁掉别人的人生 而且为什么你不自己做呢 https://t.co/F2BN3BuZrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 157,
+          "like_count": 415,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 865
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T10:35:53.000Z",
+        "description": "想留下美好的回忆",
+        "id": "1252908934500954113",
+        "name": "垃圾桶里有垃圾",
+        "pinned_tweet_id": "1656759774128533510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020611612441292800/y_h2XZSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 93
+        },
+        "username": "lajitongyoulaji",
+        "verified": false
+      }
+    ]
+  }
+}

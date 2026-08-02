@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015742160101138432"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2015742177545211936",
+    "created_at": "2026-01-26T11:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015742177545211936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZZDgIppXJ",
+          "end": 30,
+          "expanded_url": "https://x.com/peipeimao/status/2015742177545211936/photo/1",
+          "media_key": "3_2015742160101138432",
+          "start": 7,
+          "url": "https://t.co/cZZDgIppXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015742177545211936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就你天天撒娇 https://t.co/cZZDgIppXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2015742160101138432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_la0JObYAAlxth.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015742160101138432"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2015742177545211936",
+        "created_at": "2026-01-26T11:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015742177545211936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZZDgIppXJ",
+              "end": 30,
+              "expanded_url": "https://x.com/peipeimao/status/2015742177545211936/photo/1",
+              "media_key": "3_2015742160101138432",
+              "start": 7,
+              "url": "https://t.co/cZZDgIppXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015742177545211936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就你天天撒娇 https://t.co/cZZDgIppXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2013410664056832014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 136,
+          "like_count": 247,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 439
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

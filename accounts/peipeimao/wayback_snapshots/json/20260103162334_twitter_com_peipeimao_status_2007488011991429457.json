@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007488011991429457",
+    "created_at": "2026-01-03T16:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T17:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007488011991429457"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007488011991429457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢好多推油…我做梦梦见了一些稀奇古怪的事情，梦见我租了大房子收留了很多推油，主要是小孩子和残疾人，他们都好好…他们都好好地在梦里安慰我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007488011991429457",
+        "created_at": "2026-01-03T16:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007488011991429457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007488011991429457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢好多推油…我做梦梦见了一些稀奇古怪的事情，梦见我租了大房子收留了很多推油，主要是小孩子和残疾人，他们都好好…他们都好好地在梦里安慰我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "@fusedjiii 我每天都在求Msk把我唯一的东西还给我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "fusedjiii"
+              }
+            ]
+          }
+        },
+        "id": "2007104134466736129",
+        "location": "爱",
+        "name": "裴裴小猫去死了",
+        "pinned_tweet_id": "2007192256487534806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 87,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 82
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

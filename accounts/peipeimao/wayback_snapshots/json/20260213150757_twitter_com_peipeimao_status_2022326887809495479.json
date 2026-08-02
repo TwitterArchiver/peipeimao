@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022326878204502017"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022326887809495479",
+    "created_at": "2026-02-13T15:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022326887809495479"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "支 屠",
+          "probability": 0.4467,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUgnLnBI9m",
+          "end": 27,
+          "expanded_url": "https://x.com/peipeimao/status/2022326887809495479/photo/1",
+          "media_key": "3_2022326878204502017",
+          "start": 4,
+          "url": "https://t.co/lUgnLnBI9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022326887809495479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "支 屠 https://t.co/lUgnLnBI9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022326878204502017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBC_lLsaoAEdsEy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022326878204502017"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022326887809495479",
+        "created_at": "2026-02-13T15:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022326887809495479"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "支 屠",
+              "probability": 0.4467,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUgnLnBI9m",
+              "end": 27,
+              "expanded_url": "https://x.com/peipeimao/status/2022326887809495479/photo/1",
+              "media_key": "3_2022326878204502017",
+              "start": 4,
+              "url": "https://t.co/lUgnLnBI9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022326887809495479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支 屠 https://t.co/lUgnLnBI9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 158,
+          "like_count": 442,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 980
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

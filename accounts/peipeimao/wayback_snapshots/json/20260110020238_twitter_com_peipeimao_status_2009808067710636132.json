@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2009806681228882277",
+    "created_at": "2026-01-10T02:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T03:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009808067710636132"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009808067710636132",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009806681228882277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈止咳药吃两颗四颗晕了是正常的，那是中枢神经抑制犯困了。世界这么大人这么多你有多稀有啊？都他吗一样的器官你的纽币，自动生产活性成分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2009806681228882277",
+        "created_at": "2026-01-10T02:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009808067710636132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009808067710636132",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009806681228882277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈止咳药吃两颗四颗晕了是正常的，那是中枢神经抑制犯困了。世界这么大人这么多你有多稀有啊？都他吗一样的器官你的纽币，自动生产活性成分了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2009806681228882277",
+        "created_at": "2026-01-10T01:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T02:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009806681228882277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009806681228882277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我觉得一些人真的蠢没救，你有心理疾病创伤你去看啊，安慰安慰过了劝也劝过了建议也建议过了，你给我发一堆童年小故事告诉我你拿4Ｔ白兔吃就能有药效我说什么？继续跟Ai玩去吧孩子，我上这个互联网蠢人确实该给我精神损失费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 113,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 207
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

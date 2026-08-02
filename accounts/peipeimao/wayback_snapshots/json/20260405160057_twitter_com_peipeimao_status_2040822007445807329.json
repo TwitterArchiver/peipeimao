@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2040822007445807329",
+    "created_at": "2026-04-05T16:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040822007445807329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peipeimao/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/peipeimao/status/2040594205496734005",
+          "start": 17,
+          "url": "https://t.co/SgOnWP6Wfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040822007445807329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040594205496734005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Msk能不能给我推点流量我要哭了 https://t.co/SgOnWP6Wfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040594181551435776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGlmLoaMAAU1px.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2040822007445807329",
+        "created_at": "2026-04-05T16:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040822007445807329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/peipeimao/status/2040594205496734005",
+              "start": 17,
+              "url": "https://t.co/SgOnWP6Wfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040822007445807329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040594205496734005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Msk能不能给我推点流量我要哭了 https://t.co/SgOnWP6Wfx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040594181551435776"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2040594205496734005",
+        "created_at": "2026-04-05T00:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040594205496734005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvPCGyWrH8",
+              "end": 27,
+              "expanded_url": "https://x.com/peipeimao/status/2040594205496734005/photo/1",
+              "media_key": "3_2040594181551435776",
+              "start": 4,
+              "url": "https://t.co/WvPCGyWrH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040594205496734005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1548,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你啦 https://t.co/WvPCGyWrH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2039441350249402402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 172,
+          "like_count": 614,
+          "listed_count": 10,
+          "media_count": 100,
+          "tweet_count": 1599
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

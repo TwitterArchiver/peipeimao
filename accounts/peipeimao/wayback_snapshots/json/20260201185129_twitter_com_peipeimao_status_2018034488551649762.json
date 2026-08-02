@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2017416328886489096",
+    "created_at": "2026-02-01T18:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T19:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018034488551649762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "410216887",
+          "start": 0,
+          "username": "kinnipig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018034488551649762",
+    "in_reply_to_user_id": "410216887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017597127246156057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinnipig 国内也可以抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2017416328886489096",
+        "created_at": "2026-02-01T18:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018034488551649762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "410216887",
+              "start": 0,
+              "username": "kinnipig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018034488551649762",
+        "in_reply_to_user_id": "410216887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017597127246156057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinnipig 国内也可以抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410216887",
+        "conversation_id": "2017416328886489096",
+        "created_at": "2026-01-31T13:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017597127246156057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017597127246156057",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017416328886489096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 可惜在国内要不你抽点大麻会舒服很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 139,
+          "like_count": 288,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 548
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-11T20:11:01.000Z",
+        "description": "",
+        "id": "410216887",
+        "name": "mpl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233763155995549697/CianOLr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 174,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 334
+        },
+        "username": "kinnipig",
+        "verified": false
+      }
+    ]
+  }
+}

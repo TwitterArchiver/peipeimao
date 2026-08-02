@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043112570203389952"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043112582937223231",
+    "created_at": "2026-04-11T23:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T00:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043112582937223231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jzrJz2CmIu",
+          "end": 30,
+          "expanded_url": "https://x.com/peipeimao/status/2043112582937223231/photo/1",
+          "media_key": "3_2043112570203389952",
+          "start": 7,
+          "url": "https://t.co/jzrJz2CmIu"
+        },
+        {
+          "display_url": "x.com/peipeimao/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/peipeimao/status/2042913141559038352",
+          "start": 31,
+          "url": "https://t.co/3VnEdBLLkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043112582937223231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042913141559038352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谭子康来咯！ https://t.co/jzrJz2CmIu https://t.co/3VnEdBLLkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043112570203389952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqYDscbwAAcas8.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042913110810595329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnipoTakAEy4Xp.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042913110802206726",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnipoRakAYJasI.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042913110802206722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnipoRakAI2Q8n.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042913111238422528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnipp5asAA_FdG.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043112570203389952"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043112582937223231",
+        "created_at": "2026-04-11T23:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043112582937223231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzrJz2CmIu",
+              "end": 30,
+              "expanded_url": "https://x.com/peipeimao/status/2043112582937223231/photo/1",
+              "media_key": "3_2043112570203389952",
+              "start": 7,
+              "url": "https://t.co/jzrJz2CmIu"
+            },
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/peipeimao/status/2042913141559038352",
+              "start": 31,
+              "url": "https://t.co/3VnEdBLLkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043112582937223231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042913141559038352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谭子康来咯！ https://t.co/jzrJz2CmIu https://t.co/3VnEdBLLkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042913110810595329",
+            "3_2042913110802206726",
+            "3_2042913110802206722",
+            "3_2042913111238422528"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2042913141559038352",
+        "created_at": "2026-04-11T10:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042913141559038352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1GS7e0Rsz",
+              "end": 107,
+              "expanded_url": "https://x.com/peipeimao/status/2042913141559038352/photo/1",
+              "media_key": "3_2042913110810595329",
+              "start": 84,
+              "url": "https://t.co/n1GS7e0Rsz"
+            },
+            {
+              "display_url": "pic.x.com/n1GS7e0Rsz",
+              "end": 107,
+              "expanded_url": "https://x.com/peipeimao/status/2042913141559038352/photo/1",
+              "media_key": "3_2042913110802206726",
+              "start": 84,
+              "url": "https://t.co/n1GS7e0Rsz"
+            },
+            {
+              "display_url": "pic.x.com/n1GS7e0Rsz",
+              "end": 107,
+              "expanded_url": "https://x.com/peipeimao/status/2042913141559038352/photo/1",
+              "media_key": "3_2042913110802206722",
+              "start": 84,
+              "url": "https://t.co/n1GS7e0Rsz"
+            },
+            {
+              "display_url": "pic.x.com/n1GS7e0Rsz",
+              "end": 107,
+              "expanded_url": "https://x.com/peipeimao/status/2042913141559038352/photo/1",
+              "media_key": "3_2042913111238422528",
+              "start": 84,
+              "url": "https://t.co/n1GS7e0Rsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042913141559038352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2759,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次稍微好起来一点以前的傻逼又来骚扰我，非要这样恶心人是吧，我记得你，你叫谭子康是个私生子，最爱做的是一边骚扰我一边贬低我，都挂过你几遍了逼我去死是吗好啊那我就死呗 https://t.co/n1GS7e0Rsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4592,
+          "following_count": 176,
+          "like_count": 617,
+          "listed_count": 11,
+          "media_count": 108,
+          "tweet_count": 1687
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2011024387559079977",
+    "created_at": "2026-01-13T10:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T11:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011024613753700475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011024613753700475",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011024387559079977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《我不欧弟因为我平常就有药效！》那是精神病啥必😧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2011024387559079977",
+        "created_at": "2026-01-13T10:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011024613753700475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011024613753700475",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011024387559079977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《我不欧弟因为我平常就有药效！》那是精神病啥必😧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2011024387559079977",
+        "created_at": "2026-01-13T10:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011024387559079977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ourakusen1/sta…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/ourakusen1/status/2011023333631148295",
+              "start": 73,
+              "url": "https://t.co/tLO3EfEQtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011024387559079977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011023333631148295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最典的来了。迎接新皇帝：吃四颗优美肢体不协调一周，吃四颗白兔上劲，最强成分提取体制，天选特殊欧弟体制，25Mg苯海拉明就能吃成脑残的健全人来了！ https://t.co/tLO3EfEQtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫无话可说",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 120,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 294
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

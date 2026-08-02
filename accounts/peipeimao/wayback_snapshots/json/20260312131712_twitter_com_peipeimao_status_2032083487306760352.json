@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2032047431576404440",
+    "created_at": "2026-03-12T13:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032083487306760352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032043767713452032",
+          "start": 0,
+          "username": "CABR_Lies"
+        },
+        {
+          "end": 27,
+          "id": "1484072544009347072",
+          "start": 11,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032083487306760352",
+    "in_reply_to_user_id": "2032043767713452032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032081709626503593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies @BelovedUren8964 马斯克深井冰了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2032047431576404440",
+        "created_at": "2026-03-12T13:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032083487306760352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032043767713452032",
+              "start": 0,
+              "username": "CABR_Lies"
+            },
+            {
+              "end": 27,
+              "id": "1484072544009347072",
+              "start": 11,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032083487306760352",
+        "in_reply_to_user_id": "2032043767713452032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032081709626503593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies @BelovedUren8964 马斯克深井冰了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032043767713452032",
+        "conversation_id": "2032047431576404440",
+        "created_at": "2026-03-12T13:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032081709626503593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            },
+            {
+              "end": 27,
+              "id": "1484072544009347072",
+              "start": 11,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032081709626503593",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032075153660920004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao @BelovedUren8964 睡一觉起来打开手机 马斯克说我账号不真实给我封了 我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 171,
+          "like_count": 549,
+          "listed_count": 11,
+          "media_count": 90,
+          "tweet_count": 1411
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T10:39:31.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt #shtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2032043767713452032",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032047608798302418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032044042373173248/P0TOWWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 11,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 18
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/ 反男反女反跨反人类反一切/支那人没有一个是无辜的/我心里的第一和唯一@Amenyan14_w/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Amenyan14_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2029935282569761105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941021363507201/jjiJM8UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 507,
+          "like_count": 5543,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 4011
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

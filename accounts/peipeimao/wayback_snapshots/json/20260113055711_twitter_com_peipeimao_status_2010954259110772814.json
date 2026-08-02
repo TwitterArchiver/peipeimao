@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2010662820644520181",
+    "created_at": "2026-01-13T05:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010954259110772814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1990653094615814144",
+          "start": 0,
+          "username": "gush6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010954259110772814",
+    "in_reply_to_user_id": "1990653094615814144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010953570720629039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gush6666 嘻嘻卖萌装萌中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2010662820644520181",
+        "created_at": "2026-01-13T05:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010954259110772814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1990653094615814144",
+              "start": 0,
+              "username": "gush6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010954259110772814",
+        "in_reply_to_user_id": "1990653094615814144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010953570720629039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gush6666 嘻嘻卖萌装萌中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990653094615814144",
+        "conversation_id": "2010662820644520181",
+        "created_at": "2026-01-13T05:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010953570720629039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010953570720629039",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010662820644520181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 可爱喵！太可爱了喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 116,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 248
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T05:27:46.000Z",
+        "description": "求求你不要讨厌我",
+        "id": "1990653094615814144",
+        "name": "顾笙笙又活一年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997648704803868672/8K2W9cBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 68,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1106
+        },
+        "username": "gush6666",
+        "verified": false
+      }
+    ]
+  }
+}

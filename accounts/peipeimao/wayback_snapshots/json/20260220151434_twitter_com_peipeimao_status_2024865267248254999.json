@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2024803605489025205",
+    "created_at": "2026-02-20T15:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024865267248254999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706233044439568384",
+          "start": 0,
+          "username": "6RJB036wzL92710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024865267248254999",
+    "in_reply_to_user_id": "1706233044439568384",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024819483702137263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6RJB036wzL92710 no"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2024803605489025205",
+        "created_at": "2026-02-20T15:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024865267248254999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706233044439568384",
+              "start": 0,
+              "username": "6RJB036wzL92710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024865267248254999",
+        "in_reply_to_user_id": "1706233044439568384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024819483702137263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6RJB036wzL92710 no"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706233044439568384",
+        "conversation_id": "2024803605489025205",
+        "created_at": "2026-02-20T12:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024819483702137263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024819483702137263",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024803605489025205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 记得找人看着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 171,
+          "like_count": 501,
+          "listed_count": 8,
+          "media_count": 72,
+          "tweet_count": 1155
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T09:04:01.000Z",
+        "description": "发言完全看个人心情，如果不爽请和我对骂谢谢",
+        "id": "1706233044439568384",
+        "location": "Japan",
+        "name": "黑濑令儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013899386812760065/23Omq9S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 549
+        },
+        "username": "6RJB036wzL92710",
+        "verified": false
+      }
+    ]
+  }
+}

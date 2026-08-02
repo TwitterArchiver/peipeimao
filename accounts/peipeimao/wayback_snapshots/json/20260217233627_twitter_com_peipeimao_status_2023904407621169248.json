@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2023805259836203063",
+    "created_at": "2026-02-17T23:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T00:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023904407621169248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706233044439568384",
+          "start": 0,
+          "username": "6RJB036wzL92710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023904407621169248",
+    "in_reply_to_user_id": "1706233044439568384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023836530247430516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6RJB036wzL92710 应该是 嗯 对 假装在看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2023805259836203063",
+        "created_at": "2026-02-17T23:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023904407621169248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706233044439568384",
+              "start": 0,
+              "username": "6RJB036wzL92710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023904407621169248",
+        "in_reply_to_user_id": "1706233044439568384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023836530247430516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6RJB036wzL92710 应该是 嗯 对 假装在看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706233044439568384",
+        "conversation_id": "2023805259836203063",
+        "created_at": "2026-02-17T19:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023836530247430516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023836530247430516",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023805259836203063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 好有感觉，就是这种眼神，最喜欢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 164,
+          "like_count": 490,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 1111
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T09:04:01.000Z",
+        "description": "发言完全看个人心情，如果不爽请和我对骂谢谢",
+        "id": "1706233044439568384",
+        "location": "Japan",
+        "name": "黑濑令儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013899386812760065/23Omq9S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 442
+        },
+        "username": "6RJB036wzL92710",
+        "verified": false
+      }
+    ]
+  }
+}

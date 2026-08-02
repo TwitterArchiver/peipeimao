@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007324428057882818",
+    "created_at": "2026-01-03T05:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007324428057882818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007324428057882818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007078563661623386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 我没有死\n我永远不死\n任何人跑路我扶梯也不会跑\n死了一个号那么重新再来便是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007324428057882818",
+        "created_at": "2026-01-03T05:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007324428057882818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007068022750814208",
+              "start": 3,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007324428057882818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007078563661623386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futi78999: 我没有死\n我永远不死\n任何人跑路我扶梯也不会跑\n死了一个号那么重新再来便是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007068022750814208",
+        "conversation_id": "2007078563661623386",
+        "created_at": "2026-01-02T13:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007078563661623386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007078563661623386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我没有死\n我永远不死\n任何人跑路我扶梯也不会跑\n死了一个号那么重新再来便是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "。",
+        "id": "2007104134466736129",
+        "location": "爱",
+        "name": "裴裴小猫去死了",
+        "pinned_tweet_id": "2007288229364670764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 54,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007068170629386240/UIUrDwBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 56,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

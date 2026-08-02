@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043580416645550153",
+    "created_at": "2026-04-13T07:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043587758728589577"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043587758728589577",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043580416645550153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你已疾苦😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043580403395731456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxBjK5aIAApG2o.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043580416645550153",
+        "created_at": "2026-04-13T07:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043587758728589577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043587758728589577",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043580416645550153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你已疾苦😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043580403395731456"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043580416645550153",
+        "created_at": "2026-04-13T06:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043580416645550153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tT7EX4fasV",
+              "end": 97,
+              "expanded_url": "https://x.com/peipeimao/status/2043580416645550153/photo/1",
+              "media_key": "3_2043580403395731456",
+              "start": 74,
+              "url": "https://t.co/tT7EX4fasV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043580416645550153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "双面人背刺男婊子，一生爱装的长发男，从很早就在背后骂我，表面还要装作是好朋友。此人还总在线下骗小女孩去跟他欧弟，纯压抑巨婴，门妹/餐券/欧弟妹避雷 https://t.co/tT7EX4fasV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 172,
+          "like_count": 612,
+          "listed_count": 11,
+          "media_count": 107,
+          "tweet_count": 1711
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

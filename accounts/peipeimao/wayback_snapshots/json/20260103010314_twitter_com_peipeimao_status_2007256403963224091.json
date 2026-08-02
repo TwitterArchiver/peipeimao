@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007256403963224091",
+    "created_at": "2026-01-03T01:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T02:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007256403963224091"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007256403963224091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是在自己账号许愿一点金币就被举报然后永封，凭什么、我存在的证明呢，我的痛苦呢，这么痛苦为什么没有人没有人没人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007256403963224091",
+        "created_at": "2026-01-03T01:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T02:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007256403963224091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007256403963224091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是在自己账号许愿一点金币就被举报然后永封，凭什么、我存在的证明呢，我的痛苦呢，这么痛苦为什么没有人没有人没人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "死一回",
+        "id": "2007104134466736129",
+        "location": "爱",
+        "name": "裴裴小猫去死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

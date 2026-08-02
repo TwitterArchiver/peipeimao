@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2024114784023568558",
+    "created_at": "2026-02-19T01:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024300061111549959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741809979370389505",
+          "start": 0,
+          "username": "jngshjidey66954"
+        },
+        {
+          "end": 33,
+          "id": "1828234384949891072",
+          "start": 17,
+          "username": "linglingml77780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024300061111549959",
+    "in_reply_to_user_id": "1741809979370389505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024265905153483042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngshjidey66954 @linglingml77780 喜欢你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2024114784023568558",
+        "created_at": "2026-02-19T01:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024300061111549959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741809979370389505",
+              "start": 0,
+              "username": "jngshjidey66954"
+            },
+            {
+              "end": 33,
+              "id": "1828234384949891072",
+              "start": 17,
+              "username": "linglingml77780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024300061111549959",
+        "in_reply_to_user_id": "1741809979370389505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024265905153483042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngshjidey66954 @linglingml77780 喜欢你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741809979370389505",
+        "conversation_id": "2024114784023568558",
+        "created_at": "2026-02-18T23:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024265905153483042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            },
+            {
+              "end": 27,
+              "id": "1828234384949891072",
+              "start": 11,
+              "username": "linglingml77780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024265905153483042",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024153433285206063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao @linglingml77780 你还喜欢你哥哥吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3243,
+          "following_count": 164,
+          "like_count": 492,
+          "listed_count": 8,
+          "media_count": 72,
+          "tweet_count": 1137
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:14:02.000Z",
+        "description": "",
+        "id": "1741809979370389505",
+        "name": "小小空",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 737,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "jngshjidey66954",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:53:58.000Z",
+        "description": "偶尔浏览推特，大部分时间在晚上",
+        "id": "1828234384949891072",
+        "location": "私立直江津高等学校3年1班、\n\n",
+        "name": "阿良良木历",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828234530697732096/o1RjqKNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 246,
+          "like_count": 7779,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1116
+        },
+        "username": "linglingml77780",
+        "verified": false
+      }
+    ]
+  }
+}

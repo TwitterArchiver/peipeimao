@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021745238818120039",
+    "created_at": "2026-02-12T03:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021795294665748531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021795294665748531",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021745238818120039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric Cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2021745066079858688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6ubQoWsAAOhyY.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021745238818120039",
+        "created_at": "2026-02-12T03:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021795294665748531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021795294665748531",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021745238818120039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric Cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021745066079858688"
+          ]
+        },
+        "author_id": "1980396569363935232",
+        "conversation_id": "2021745238818120039",
+        "created_at": "2026-02-12T00:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021745238818120039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lacZXn6qvW",
+              "end": 74,
+              "expanded_url": "https://x.com/Disturbeuphoric/status/2021745238818120039/photo/1",
+              "media_key": "3_2021745066079858688",
+              "start": 51,
+              "url": "https://t.co/lacZXn6qvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021745238818120039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我原本计划戒毒超过七天，但未能成功。我又开始吸毒了。\n我简直欣喜若狂。🌿我终于彻底染上了毒瘾。🌿🥳🥳 https://t.co/lacZXn6qvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 157,
+          "like_count": 422,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 879
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "我特立独行，有些离经叛道。宅男. 我的身体对药物和酒精过敏。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我饱受焦虑困扰，我无法忍受暴力。我把我的情绪状态和艺术分享给你。我希望你能以善意接纳真实的我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBVIBT"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2008691893031292949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005825792106700800/JKRlw9KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 126,
+          "like_count": 8253,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/OARyaBVIBT",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

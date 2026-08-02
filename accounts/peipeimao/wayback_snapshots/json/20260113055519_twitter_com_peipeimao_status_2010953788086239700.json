@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2010953239823597732",
+    "created_at": "2026-01-13T05:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010953788086239700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010953788086239700",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010953239823597732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天回消息就这个死样(^_^)因为我妈一直在逼我死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010953231988568064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hXT1yaMAADu27.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2010953239823597732",
+        "created_at": "2026-01-13T05:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010953788086239700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010953788086239700",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010953239823597732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天回消息就这个死样(^_^)因为我妈一直在逼我死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010953231988568064"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010953239823597732",
+        "created_at": "2026-01-13T05:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010953239823597732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGtozOSb9N",
+              "end": 48,
+              "expanded_url": "https://x.com/peipeimao/status/2010953239823597732/photo/1",
+              "media_key": "3_2010953231988568064",
+              "start": 25,
+              "url": "https://t.co/VGtozOSb9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010953239823597732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在等一个无敌强悍健全到可以对抗我妈的女人来救我 https://t.co/VGtozOSb9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 116,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 247
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

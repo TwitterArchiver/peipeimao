@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043720529954455553"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043720547578900903",
+    "created_at": "2026-04-13T15:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043720547578900903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OeOTiat142",
+          "end": 91,
+          "expanded_url": "https://x.com/peipeimao/status/2043720547578900903/photo/1",
+          "media_key": "3_2043720529954455553",
+          "start": 68,
+          "url": "https://t.co/OeOTiat142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043720547578900903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近在好好处理情绪了然后打算把不相干的帖子都删掉，我一直都很不喜欢吵架，也不喜欢说别人坏话，之前发的那些是对面让我挂的我只是听话好不！ https://t.co/OeOTiat142"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043720529954455553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzA_nAbwAElCE3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043720529954455553"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043720547578900903",
+        "created_at": "2026-04-13T15:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043720547578900903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeOTiat142",
+              "end": 91,
+              "expanded_url": "https://x.com/peipeimao/status/2043720547578900903/photo/1",
+              "media_key": "3_2043720529954455553",
+              "start": 68,
+              "url": "https://t.co/OeOTiat142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043720547578900903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在好好处理情绪了然后打算把不相干的帖子都删掉，我一直都很不喜欢吵架，也不喜欢说别人坏话，之前发的那些是对面让我挂的我只是听话好不！ https://t.co/OeOTiat142"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/328提供情绪价值陪聊/接cos委托纯绿",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4602,
+          "following_count": 172,
+          "like_count": 614,
+          "listed_count": 11,
+          "media_count": 113,
+          "tweet_count": 1752
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

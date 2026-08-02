@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2040314410754093263",
+    "created_at": "2026-04-05T15:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040821677127557559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "wtfkanwogansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040821677127557559",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040314410754093263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtfkanwogansha 我去好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2040314402981941249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCnI7PaEAEgMPY.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2040314410754093263",
+        "created_at": "2026-04-05T15:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040821677127557559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "wtfkanwogansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040821677127557559",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040314410754093263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtfkanwogansha 我去好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040314402981941249"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "2040314410754093263",
+        "created_at": "2026-04-04T06:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040314410754093263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5u8dwc8Qe",
+              "end": 23,
+              "expanded_url": "https://x.com/wtfkanwogansha/status/2040314410754093263/photo/1",
+              "media_key": "3_2040314402981941249",
+              "start": 0,
+              "url": "https://t.co/C5u8dwc8Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040314410754093263",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5557,
+          "like_count": 415,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C5u8dwc8Qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2039441350249402402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 172,
+          "like_count": 614,
+          "listed_count": 10,
+          "media_count": 100,
+          "tweet_count": 1598
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "随便玩玩",
+        "id": "1847153221900685312",
+        "name": "？",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009163482588155904/HNwyNfIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 613,
+          "like_count": 1331,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 1586
+        },
+        "username": "wtfkanwogansha",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "随便玩玩",
+        "id": "1847153221900685312",
+        "name": "？",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009163482588155904/HNwyNfIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 613,
+          "like_count": 1331,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 1586
+        },
+        "username": "wtfkanwogansha",
+        "verified": true
+      }
+    ]
+  }
+}

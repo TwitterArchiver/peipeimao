@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2041205663054098459",
+    "created_at": "2026-04-07T02:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041347825947320729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970921429010087941",
+          "start": 0,
+          "username": "AirWiaAir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041347825947320729",
+    "in_reply_to_user_id": "1970921429010087941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041214712587927812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirWiaAir 魅惑攻击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2041205663054098459",
+        "created_at": "2026-04-07T02:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041347825947320729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970921429010087941",
+              "start": 0,
+              "username": "AirWiaAir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041347825947320729",
+        "in_reply_to_user_id": "1970921429010087941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041214712587927812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirWiaAir 魅惑攻击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970921429010087941",
+        "conversation_id": "2041205663054098459",
+        "created_at": "2026-04-06T18:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041214712587927812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041214712587927812",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041205663054098459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 被迷晕了，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 177,
+          "like_count": 615,
+          "listed_count": 10,
+          "media_count": 102,
+          "tweet_count": 1634
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T18:42:11.000Z",
+        "description": "我还想和你谈论宇宙和天空",
+        "id": "1970921429010087941",
+        "name": "凜冬的長青樹",
+        "pinned_tweet_id": "2032361120674283949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016339692372033538/65f5IrcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 100,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 319
+        },
+        "username": "AirWiaAir",
+        "verified": false
+      }
+    ]
+  }
+}

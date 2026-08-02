@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021541976131461609",
+    "created_at": "2026-02-11T13:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021571699754274871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001286547791101953",
+          "start": 0,
+          "username": "bai94757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021571699754274871",
+    "in_reply_to_user_id": "2001286547791101953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021552641403457682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai94757 那你去^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021541976131461609",
+        "created_at": "2026-02-11T13:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021571699754274871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001286547791101953",
+              "start": 0,
+              "username": "bai94757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021571699754274871",
+        "in_reply_to_user_id": "2001286547791101953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021552641403457682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai94757 那你去^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001286547791101953",
+        "conversation_id": "2021541976131461609",
+        "created_at": "2026-02-11T11:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021552641403457682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021552641403457682",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021541976131461609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 开盒不痛不痒，建议直接线下真实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 156,
+          "like_count": 409,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 841
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T13:42:19.000Z",
+        "description": "",
+        "id": "2001286547791101953",
+        "name": "知白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016596632318726144/o6TVOh0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 39,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "username": "bai94757",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2039441350249402402",
+    "created_at": "2026-04-02T00:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039501283271540782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        },
+        {
+          "end": 28,
+          "id": "2013414264225308672",
+          "start": 17,
+          "username": "ourakusen3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039501283271540782",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039500824167227740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 @ourakusen3 宝宝不用管，我运气太差总被把自己当皇帝一样的人骚扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2039441350249402402",
+        "created_at": "2026-04-02T00:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039501283271540782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            },
+            {
+              "end": 28,
+              "id": "2013414264225308672",
+              "start": 17,
+              "username": "ourakusen3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039501283271540782",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039500824167227740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 @ourakusen3 宝宝不用管，我运气太差总被把自己当皇帝一样的人骚扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2039441350249402402",
+        "created_at": "2026-04-02T00:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039500824167227740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013414264225308672",
+              "start": 0,
+              "username": "ourakusen3"
+            },
+            {
+              "end": 22,
+              "id": "2007104134466736129",
+              "start": 12,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039500824167227740",
+        "in_reply_to_user_id": "2013414264225308672",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039487979593547921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakusen3 @peipeimao ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038751229426413568/ou37i-jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4550,
+          "following_count": 174,
+          "like_count": 601,
+          "listed_count": 11,
+          "media_count": 96,
+          "tweet_count": 1520
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "姐姐@maitakoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "maitakoo"
+              }
+            ]
+          }
+        },
+        "id": "2013875219392585728",
+        "location": "🚪52/288/520上不封顶（过门不退",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 227,
+          "like_count": 10470,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 4036
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T00:53:06.000Z",
+        "description": "",
+        "id": "2013414264225308672",
+        "name": "Haoziangni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023384283235434496/QQLIVEM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "ourakusen3",
+        "verified": false
+      }
+    ]
+  }
+}

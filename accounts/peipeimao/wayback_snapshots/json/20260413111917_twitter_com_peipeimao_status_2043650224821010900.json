@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043633338486005936",
+    "created_at": "2026-04-13T11:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043650224821010900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810692687789694976",
+          "start": 0,
+          "username": "lonelyfumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043650224821010900",
+    "in_reply_to_user_id": "1810692687789694976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043633338486005936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonelyfumo 闺蜜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043633338486005936",
+        "created_at": "2026-04-13T11:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043650224821010900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810692687789694976",
+              "start": 0,
+              "username": "lonelyfumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043650224821010900",
+        "in_reply_to_user_id": "1810692687789694976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043633338486005936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonelyfumo 闺蜜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810692687789694976",
+        "conversation_id": "2043633338486005936",
+        "created_at": "2026-04-13T10:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043633338486005936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043633338486005936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有人记得我吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托纯绿",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605,
+          "following_count": 172,
+          "like_count": 614,
+          "listed_count": 11,
+          "media_count": 112,
+          "tweet_count": 1743
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:09:28.000Z",
+        "description": "第一次转生/笑气批发 联系https://t.co/KMBaiTdtdy\n原号@popcat1234566\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 36,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 13,
+                "url": "https://t.co/KMBaiTdtdy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/BEZRzr0LCc"
+              }
+            ]
+          }
+        },
+        "id": "1810692687789694976",
+        "location": "fumo island",
+        "name": "popcat12345666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810696532620107776/AZkUpTIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 62,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/BEZRzr0LCc",
+        "username": "lonelyfumo",
+        "verified": false
+      }
+    ]
+  }
+}

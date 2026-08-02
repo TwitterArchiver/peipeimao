@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007298126491832639",
+    "created_at": "2026-01-03T03:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007299977014550734"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007299977014550734",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007298126491832639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "配跟我说话吗上来拿钱绑架我？真有的都是直接口令了管你那么多，看我粉丝少又欺负我来了？哈哈哈哈哈哈哈哈好哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007298115750305792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tbAEuboAAtX-h.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007298126491832639",
+        "created_at": "2026-01-03T03:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007299977014550734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007299977014550734",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007298126491832639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "配跟我说话吗上来拿钱绑架我？真有的都是直接口令了管你那么多，看我粉丝少又欺负我来了？哈哈哈哈哈哈哈哈好哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007298115750305792"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007298126491832639",
+        "created_at": "2026-01-03T03:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007298126491832639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hZ6l3Hw7b",
+              "end": 27,
+              "expanded_url": "https://x.com/peipeimao/status/2007298126491832639/photo/1",
+              "media_key": "3_2007298115750305792",
+              "start": 4,
+              "url": "https://t.co/3hZ6l3Hw7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007298126491832639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赶紧滚 https://t.co/3hZ6l3Hw7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "。",
+        "id": "2007104134466736129",
+        "location": "爱",
+        "name": "裴裴小猫去死了",
+        "pinned_tweet_id": "2007288229364670764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 49,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

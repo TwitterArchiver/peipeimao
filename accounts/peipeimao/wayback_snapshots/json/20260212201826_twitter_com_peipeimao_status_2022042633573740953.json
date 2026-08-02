@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021954852067434840",
+    "created_at": "2026-02-12T20:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T21:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022042633573740953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625206752773029889",
+          "start": 0,
+          "username": "chezaimian30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022042633573740953",
+    "in_reply_to_user_id": "1625206752773029889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021954852067434840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chezaimian30 怎么联系"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2021954842076532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9tN1HaUAAAMfu.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021954852067434840",
+        "created_at": "2026-02-12T20:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022042633573740953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625206752773029889",
+              "start": 0,
+              "username": "chezaimian30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022042633573740953",
+        "in_reply_to_user_id": "1625206752773029889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021954852067434840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chezaimian30 怎么联系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021954842076532736"
+          ]
+        },
+        "author_id": "1625206752773029889",
+        "conversation_id": "2021954852067434840",
+        "created_at": "2026-02-12T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021954852067434840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ueWaCI0BEJ",
+              "end": 28,
+              "expanded_url": "https://x.com/chezaimian30/status/2021954852067434840/photo/1",
+              "media_key": "3_2021954842076532736",
+              "start": 5,
+              "url": "https://t.co/ueWaCI0BEJ"
+            },
+            {
+              "display_url": "x.com/ge09111/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ge09111/status/2021949234845778186",
+              "start": 29,
+              "url": "https://t.co/nJhiUJWDjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021954852067434840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 132315,
+          "like_count": 333,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021949234845778186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么联系 https://t.co/ueWaCI0BEJ https://t.co/nJhiUJWDjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我请求你保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 157,
+          "like_count": 434,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 925
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T18:54:27.000Z",
+        "description": "lshtm thu打杂 欢迎跟狐狸交朋友",
+        "id": "1625206752773029889",
+        "location": "London, England",
+        "name": "小尾狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931946369253376/458sKcTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 542,
+          "like_count": 3913,
+          "listed_count": 5,
+          "media_count": 87,
+          "tweet_count": 1390
+        },
+        "username": "chezaimian30",
+        "verified": false
+      }
+    ]
+  }
+}

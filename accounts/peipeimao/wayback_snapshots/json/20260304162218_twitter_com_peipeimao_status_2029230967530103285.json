@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2029230967530103285",
+    "created_at": "2026-03-04T16:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T17:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029230967530103285"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029230967530103285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肌注是对的，完美的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029230967530103285",
+        "created_at": "2026-03-04T16:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029230967530103285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029230967530103285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肌注是对的，完美的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 168,
+          "like_count": 522,
+          "listed_count": 10,
+          "media_count": 83,
+          "tweet_count": 1331
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

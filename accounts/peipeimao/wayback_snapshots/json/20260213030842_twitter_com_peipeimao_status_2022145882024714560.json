@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022145867105677313"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022145882024714560",
+    "created_at": "2026-02-13T03:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022145882024714560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAhq5RpMtr",
+          "end": 39,
+          "expanded_url": "https://x.com/peipeimao/status/2022145882024714560/photo/1",
+          "media_key": "3_2022145867105677313",
+          "start": 16,
+          "url": "https://t.co/ZAhq5RpMtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022145882024714560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再坏也只是想要爱我只能想到这个 https://t.co/ZAhq5RpMtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2022145867105677313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAa88zbsAEM-5L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022145867105677313"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022145882024714560",
+        "created_at": "2026-02-13T03:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022145882024714560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAhq5RpMtr",
+              "end": 39,
+              "expanded_url": "https://x.com/peipeimao/status/2022145882024714560/photo/1",
+              "media_key": "3_2022145867105677313",
+              "start": 16,
+              "url": "https://t.co/ZAhq5RpMtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022145882024714560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再坏也只是想要爱我只能想到这个 https://t.co/ZAhq5RpMtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 157,
+          "like_count": 434,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 939
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

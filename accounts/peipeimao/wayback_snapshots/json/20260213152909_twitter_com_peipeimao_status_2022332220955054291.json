@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022331355552686134",
+    "created_at": "2026-02-13T15:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022332220955054291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022332220955054291",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022331355552686134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 我真的好想你带我走"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12583,
+        "height": 1280,
+        "media_key": "13_2022331269590433792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022331269590433792/img/QVifyRo0jAbWXrGJ.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022331269590433792/vid/avc1/320x568/7LqcrKTs6uTALxWQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022331269590433792/vid/avc1/480x852/_G29UXvOxzxS0SeW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022331269590433792/vid/avc1/720x1280/snUzALz9fmKXaLVc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022331269590433792/pl/Ra24shVfaUg6ccA8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022331355552686134",
+        "created_at": "2026-02-13T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022332220955054291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022332220955054291",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022331355552686134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 我真的好想你带我走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022331269590433792"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "2022331355552686134",
+        "created_at": "2026-02-13T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022331355552686134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1MPyLorKx",
+              "end": 30,
+              "expanded_url": "https://x.com/jing1234560/status/2022331355552686134/video/1",
+              "media_key": "13_2022331269590433792",
+              "start": 7,
+              "url": "https://t.co/i1MPyLorKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022331355552686134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回村玩原神了 https://t.co/i1MPyLorKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 159,
+          "like_count": 442,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 984
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2010703913289490783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 140,
+          "like_count": 10317,
+          "listed_count": 12,
+          "media_count": 263,
+          "tweet_count": 5474
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

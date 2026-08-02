@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043634459082387677",
+    "created_at": "2026-04-13T15:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043707368891199566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286058721",
+          "start": 0,
+          "username": "zelosarang2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043707368891199566",
+    "in_reply_to_user_id": "1286058721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043706941579616500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zelosarang2 我当然看出来啦，不过我也不是奔着圈钱去如果真心愿意交朋友我觉得也很好嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043634459082387677",
+        "created_at": "2026-04-13T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043707368891199566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286058721",
+              "start": 0,
+              "username": "zelosarang2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043707368891199566",
+        "in_reply_to_user_id": "1286058721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043706941579616500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zelosarang2 我当然看出来啦，不过我也不是奔着圈钱去如果真心愿意交朋友我觉得也很好嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286058721",
+        "conversation_id": "2043634459082387677",
+        "created_at": "2026-04-13T15:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043706941579616500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043706941579616500",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043634459082387677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 你信不信就是想白嫖的……（真正意义上的想白-嫖  你）实际可能就是纯穷…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托纯绿",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4601,
+          "following_count": 172,
+          "like_count": 614,
+          "listed_count": 11,
+          "media_count": 112,
+          "tweet_count": 1749
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-21T14:00:42.000Z",
+        "description": "• 儿子姓名: 谭子康\n • 证件: 330324200506020034\n   • 出生: 浙江省温州市永嘉县\n   • 生日: 2005年6月20日\n   • 手机: 15067330775\n   • 地址: 天城园林居欧鹭阁4幢604\n  犬子不孝，大家多多关爱智障",
+        "id": "1286058721",
+        "name": "谭军（互联网著名疯狗他爹）",
+        "pinned_tweet_id": "2042895104147624332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026259967834308608/-ZP9gNXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 382,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 589
+        },
+        "username": "zelosarang2",
+        "verified": false
+      }
+    ]
+  }
+}

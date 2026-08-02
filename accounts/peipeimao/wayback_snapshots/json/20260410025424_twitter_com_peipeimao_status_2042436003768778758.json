@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2042414999927415245",
+    "created_at": "2026-04-10T02:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042436003768778758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505680259974574080",
+          "start": 0,
+          "username": "yujiduantianmo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042436003768778758",
+    "in_reply_to_user_id": "1505680259974574080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042434855959777781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiduantianmo1 我是尤物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2042414999927415245",
+        "created_at": "2026-04-10T02:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042436003768778758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505680259974574080",
+              "start": 0,
+              "username": "yujiduantianmo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042436003768778758",
+        "in_reply_to_user_id": "1505680259974574080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042434855959777781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiduantianmo1 我是尤物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505680259974574080",
+        "conversation_id": "2042414999927415245",
+        "created_at": "2026-04-10T02:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042434855959777781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042434855959777781",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042414999927415245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao (*´艸`*)好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 178,
+          "like_count": 616,
+          "listed_count": 10,
+          "media_count": 104,
+          "tweet_count": 1654
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T22:59:05.000Z",
+        "description": "米孝子/性压抑/鸡奸未行犯/百合豚/特摄小鬼/知识恋物癖/无我丑角/龟男/权力意志破产者/世俗猪/伪善者/自以为是的道德家/永恒轮回失败者/人文主义小丑/精神太监/四爱实践失败者/狗汉奸",
+        "id": "1505680259974574080",
+        "location": "猿猴到超人的锁链",
+        "name": "于极端天魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505680354904264705/LkgTp6OI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 222,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 896
+        },
+        "username": "yujiduantianmo1",
+        "verified": false
+      }
+    ]
+  }
+}

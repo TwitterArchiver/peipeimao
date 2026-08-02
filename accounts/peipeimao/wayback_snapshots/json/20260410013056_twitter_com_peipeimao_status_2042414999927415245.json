@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042414990167261184"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2042414999927415245",
+    "created_at": "2026-04-10T01:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042414999927415245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w2dlw71krM",
+          "end": 35,
+          "expanded_url": "https://x.com/peipeimao/status/2042414999927415245/photo/1",
+          "media_key": "3_2042414990167261184",
+          "start": 12,
+          "url": "https://t.co/w2dlw71krM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042414999927415245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会一直哭到你理我为止 https://t.co/w2dlw71krM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042414990167261184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgdnMTaQAAPl60.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042414990167261184"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2042414999927415245",
+        "created_at": "2026-04-10T01:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042414999927415245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2dlw71krM",
+              "end": 35,
+              "expanded_url": "https://x.com/peipeimao/status/2042414999927415245/photo/1",
+              "media_key": "3_2042414990167261184",
+              "start": 12,
+              "url": "https://t.co/w2dlw71krM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042414999927415245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会一直哭到你理我为止 https://t.co/w2dlw71krM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 178,
+          "like_count": 616,
+          "listed_count": 10,
+          "media_count": 104,
+          "tweet_count": 1652
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

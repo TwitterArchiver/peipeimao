@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043005512187560299",
+    "created_at": "2026-04-11T18:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043026979310702847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1631871471680372737",
+          "start": 0,
+          "username": "Kik7410_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043026979310702847",
+    "in_reply_to_user_id": "1631871471680372737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043014186830266847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kik7410_ 哎哎好久不见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043005512187560299",
+        "created_at": "2026-04-11T18:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043026979310702847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631871471680372737",
+              "start": 0,
+              "username": "Kik7410_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043026979310702847",
+        "in_reply_to_user_id": "1631871471680372737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043014186830266847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kik7410_ 哎哎好久不见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631871471680372737",
+        "conversation_id": "2043005512187560299",
+        "created_at": "2026-04-11T17:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043014186830266847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043014186830266847",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043005512187560299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 太萌了我的天呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 177,
+          "like_count": 617,
+          "listed_count": 11,
+          "media_count": 107,
+          "tweet_count": 1673
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T04:17:45.000Z",
+        "description": "我的语言表达能力很差精神状态很混乱",
+        "id": "1631871471680372737",
+        "location": "爱",
+        "name": "我珍惜你的方式错了吗",
+        "pinned_tweet_id": "1998411965010718918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997636692875104256/oUTWJSOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 67,
+          "like_count": 5592,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2049
+        },
+        "username": "Kik7410_",
+        "verified": false
+      }
+    ]
+  }
+}

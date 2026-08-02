@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2018558182457823653",
+    "created_at": "2026-02-03T10:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018638378594599076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012338363152388096",
+          "start": 0,
+          "username": "zhngco222935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018638378594599076",
+    "in_reply_to_user_id": "2012338363152388096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018637091996139551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngco222935 …算了我不说了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018558182457823653",
+        "created_at": "2026-02-03T10:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018638378594599076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012338363152388096",
+              "start": 0,
+              "username": "zhngco222935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018638378594599076",
+        "in_reply_to_user_id": "2012338363152388096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018637091996139551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngco222935 …算了我不说了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012338363152388096",
+        "conversation_id": "2018558182457823653",
+        "created_at": "2026-02-03T10:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018637091996139551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018637091996139551",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018558182457823653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 药商不在意这些，他们眼里只有利益"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 138,
+          "like_count": 315,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 655
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T01:37:19.000Z",
+        "description": "【互fo】乐意交友    欢迎私信   不定时在线   现高中（休学）   无政治立场   不建政    渴望有人关心    不定时发推    不定时发病    精神状态堪忧   希望对你有所帮助   现居山东   你所看到的，便是我的全部……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu354137",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu354137",
+                "start": 0,
+                "url": "https://t.co/hSDCZfpXCs"
+              }
+            ]
+          }
+        },
+        "id": "2012338363152388096",
+        "location": "山东",
+        "name": "愚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012338870571212800/A8ZjLQk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/hSDCZfpXCs",
+        "username": "zhngco222935",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043634459082387677",
+    "created_at": "2026-04-13T10:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043634459082387677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peipeimao/stat…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/peipeimao/status/2043633159720612062",
+          "start": 118,
+          "url": "https://t.co/yER147RQjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043634459082387677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043633159720612062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我跟所有人都说他很好，我对他也很好，在没给定金的情况下委托还给他带了礼物和定制的花。介绍身边的朋友给他认识，安慰他，信任他跟他一起骂他前女友，结果他前女友并不是那样的人。他说把我当女儿，我只是说最近亲生父母断供了就被他转出去骂我要圈钱 https://t.co/yER147RQjy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043634459082387677",
+        "created_at": "2026-04-13T10:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043634459082387677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/peipeimao/status/2043633159720612062",
+              "start": 118,
+              "url": "https://t.co/yER147RQjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043634459082387677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043633159720612062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我跟所有人都说他很好，我对他也很好，在没给定金的情况下委托还给他带了礼物和定制的花。介绍身边的朋友给他认识，安慰他，信任他跟他一起骂他前女友，结果他前女友并不是那样的人。他说把我当女儿，我只是说最近亲生父母断供了就被他转出去骂我要圈钱 https://t.co/yER147RQjy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043580416645550153",
+        "created_at": "2026-04-13T10:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043633159720612062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1132443465638268928",
+              "start": 0,
+              "username": "t7isZPtfLNNlMhX"
+            },
+            {
+              "end": 31,
+              "id": "1684145754343096321",
+              "start": 17,
+              "username": "feifei1247546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043633159720612062",
+        "in_reply_to_user_id": "1132443465638268928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043600990805557515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t7isZPtfLNNlMhX @feifei1247546 他给我钱都是很早的事情了，线下委托那是委托说好了的，我自己花钱给他带了礼物订了花。后面说做朋友又要认我做女儿不会给我钱了。我说好呀，一直在跟身边的人夸他很好很好，身边人都知道。结果人家在背后说我坏话，又莫名其妙总叫我去他家里，我不愿意他就不乐意气急败坏了呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托纯绿",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605,
+          "following_count": 172,
+          "like_count": 613,
+          "listed_count": 11,
+          "media_count": 110,
+          "tweet_count": 1734
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

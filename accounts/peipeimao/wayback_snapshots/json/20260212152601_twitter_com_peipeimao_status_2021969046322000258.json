@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021621359475146984",
+    "created_at": "2026-02-12T15:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021969046322000258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813950111275499521",
+          "start": 0,
+          "username": "xln1650145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021969046322000258",
+    "in_reply_to_user_id": "1813950111275499521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021956301992210695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xln1650145 是这样呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021621359475146984",
+        "created_at": "2026-02-12T15:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021969046322000258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813950111275499521",
+              "start": 0,
+              "username": "xln1650145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021969046322000258",
+        "in_reply_to_user_id": "1813950111275499521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021956301992210695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xln1650145 是这样呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813950111275499521",
+        "conversation_id": "2021621359475146984",
+        "created_at": "2026-02-12T14:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021956301992210695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021956301992210695",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021621359475146984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 后者也许更多？但前者……死亡我不知道，“爱”或类似的正面情绪，应该被包括在后面的“看见记住”中？并作为较为主要的驱动力吧。\n以前看的，真正想要死的人会在大半夜选一个喜欢的高度与地面亲吻，但在白天选择跳楼的，潜意识里是在自救来着。´༥`"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我请求你保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 157,
+          "like_count": 432,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 916
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T14:53:41.000Z",
+        "description": "毫无目的，肆意妄为，到处乱逛的游荡者。\n又或许是一个有着独特规则的怪谈？哦豁，好玩。\nA aimless, reckless, wandering bum.\nOr perhaps it's a horror story with unique rules? Oh, that sounds fun.",
+        "id": "1813950111275499521",
+        "name": "windflast",
+        "pinned_tweet_id": "2016574924572230074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015858581485322241/meUFRnJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 127,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 215
+        },
+        "username": "xln1650145",
+        "verified": false
+      }
+    ]
+  }
+}

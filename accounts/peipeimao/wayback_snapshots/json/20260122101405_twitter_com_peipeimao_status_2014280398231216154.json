@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2014247933668126919",
+    "created_at": "2026-01-22T10:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014280398231216154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639908541401300992",
+          "start": 0,
+          "username": "guozh9920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014280398231216154",
+    "in_reply_to_user_id": "1639908541401300992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014264580474802314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guozh9920 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2014247933668126919",
+        "created_at": "2026-01-22T10:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014280398231216154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639908541401300992",
+              "start": 0,
+              "username": "guozh9920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014280398231216154",
+        "in_reply_to_user_id": "1639908541401300992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014264580474802314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guozh9920 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639908541401300992",
+        "conversation_id": "2014247933668126919",
+        "created_at": "2026-01-22T09:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014264580474802314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014264580474802314",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014247933668126919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 天使"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 136,
+          "like_count": 233,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 405
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T08:34:18.000Z",
+        "description": "华五理学硕士在读 Ⅰ dom/轻微Switch |  \n欢迎和我聊天，文学、游戏、哲学、交流观点都可以。",
+        "id": "1639908541401300992",
+        "name": "stayalive",
+        "pinned_tweet_id": "1978326576925118764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981226071329476608/hM47t4ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 352,
+          "like_count": 3837,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 368
+        },
+        "username": "guozh9920",
+        "verified": false
+      }
+    ]
+  }
+}

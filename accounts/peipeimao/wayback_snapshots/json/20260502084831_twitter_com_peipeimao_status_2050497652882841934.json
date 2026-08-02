@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2050497652882841934",
+    "created_at": "2026-05-02T08:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050497652882841934"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050497652882841934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对这个世界好多时候只想打一个问号，每次剩下的只是我一个人。只有自我毁灭才感到活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2050497652882841934",
+        "created_at": "2026-05-02T08:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050497652882841934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050497652882841934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对这个世界好多时候只想打一个问号，每次剩下的只是我一个人。只有自我毁灭才感到活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n128好友位日常陪聊/520我爱你/1314电子女友",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "裴裴小颦最好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044697706510385152/tato2CoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 174,
+          "like_count": 622,
+          "listed_count": 13,
+          "media_count": 96,
+          "tweet_count": 1769
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

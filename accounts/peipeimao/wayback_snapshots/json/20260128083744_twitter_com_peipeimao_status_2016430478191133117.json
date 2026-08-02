@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016430359521722371"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2016430478191133117",
+    "created_at": "2026-01-28T08:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016430478191133117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSFSiJ2jWQ",
+          "end": 23,
+          "expanded_url": "https://x.com/peipeimao/status/2016430478191133117/video/1",
+          "media_key": "13_2016430359521722371",
+          "start": 0,
+          "url": "https://t.co/PSFSiJ2jWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016430478191133117",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PSFSiJ2jWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5900,
+        "height": 1280,
+        "media_key": "13_2016430359521722371",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016430359521722371/img/m8031_faoixzPQLy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016430359521722371/vid/avc1/320x568/T2jRi3kwArPrCvL7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016430359521722371/vid/avc1/480x852/FQSvzg88TwQzRz1L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016430359521722371/vid/avc1/720x1280/ru5Vo9H21SsvFMu4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016430359521722371/pl/yVwUxM7eZ5pJGQwn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016430359521722371"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2016430478191133117",
+        "created_at": "2026-01-28T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016430478191133117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSFSiJ2jWQ",
+              "end": 23,
+              "expanded_url": "https://x.com/peipeimao/status/2016430478191133117/video/1",
+              "media_key": "13_2016430359521722371",
+              "start": 0,
+              "url": "https://t.co/PSFSiJ2jWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016430478191133117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PSFSiJ2jWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2013410664056832014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 137,
+          "like_count": 250,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 444
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

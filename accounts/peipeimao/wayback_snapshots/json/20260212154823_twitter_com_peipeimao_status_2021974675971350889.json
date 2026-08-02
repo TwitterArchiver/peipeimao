@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021961178730442965",
+    "created_at": "2026-02-12T15:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021974675971350889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2012152028068466688",
+          "start": 0,
+          "username": "Qingyang_0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021974675971350889",
+    "in_reply_to_user_id": "2012152028068466688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021961178730442965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingyang_0926 我一直都听不见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021961178730442965",
+        "created_at": "2026-02-12T15:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021974675971350889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2012152028068466688",
+              "start": 0,
+              "username": "Qingyang_0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021974675971350889",
+        "in_reply_to_user_id": "2012152028068466688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021961178730442965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingyang_0926 我一直都听不见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012152028068466688",
+        "conversation_id": "2021961178730442965",
+        "created_at": "2026-02-12T14:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021961178730442965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "花农_Official（熙来来袭特别版）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YpKk…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YpKkkBllZZKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2021961179984441344/f4jp0aim?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021961179984441344/f4jp0aim?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 何意味",
+              "unwound_url": "https://twitter.com/i/spaces/1YpKkkBllZZKj/peek",
+              "url": "https://t.co/jlAm1tTuLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021961178730442965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jlAm1tTuLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我请求你保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 157,
+          "like_count": 433,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 920
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T13:17:01.000Z",
+        "description": "【看见金币，使用金币】指向性抗争，意为因为某些可以或不可言说的理由需要以某某目标抵抗某一或多个主体的行为. ｜中共中央总书记 ｜ 中国共产党第六代领导核心",
+        "id": "2012152028068466688",
+        "location": "爱慕之里",
+        "name": "花农_Official（熙来来袭特别版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012603698937991169/DHdyhyBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "Qingyang_0926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022711532954489065",
+    "created_at": "2026-02-14T16:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022711532954489065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jing1234560/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/jing1234560/status/2022686446512148714",
+          "start": 9,
+          "url": "https://t.co/qfnHkM5zxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022711532954489065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022686446512148714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最爱的小狗更新了 https://t.co/qfnHkM5zxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2022686438496833539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIGmWKakAMJP59.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022711532954489065",
+        "created_at": "2026-02-14T16:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022711532954489065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jing1234560/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jing1234560/status/2022686446512148714",
+              "start": 9,
+              "url": "https://t.co/qfnHkM5zxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022711532954489065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022686446512148714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最爱的小狗更新了 https://t.co/qfnHkM5zxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022686438496833539"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "2022686446512148714",
+        "created_at": "2026-02-14T14:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022686446512148714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBH0nZcxA3",
+              "end": 45,
+              "expanded_url": "https://x.com/jing1234560/status/2022686446512148714/photo/1",
+              "media_key": "3_2022686438496833539",
+              "start": 22,
+              "url": "https://t.co/rBH0nZcxA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022686446512148714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1645,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种呆狗 网上叫的最凶现实见了就焉了吧唧的 https://t.co/rBH0nZcxA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 160,
+          "like_count": 467,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1045
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2010703913289490783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 141,
+          "like_count": 10319,
+          "listed_count": 11,
+          "media_count": 260,
+          "tweet_count": 5497
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

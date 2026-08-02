@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2032047431576404440",
+    "created_at": "2026-03-12T12:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032075153660920004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032043767713452032",
+          "start": 0,
+          "username": "CABR_Lies"
+        },
+        {
+          "end": 27,
+          "id": "1484072544009347072",
+          "start": 11,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032075153660920004",
+    "in_reply_to_user_id": "2032043767713452032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032047431576404440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies @BelovedUren8964 老公咋回事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2032047429558956032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNIXvWbcAAqn2S.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2032047431576404440",
+        "created_at": "2026-03-12T12:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032075153660920004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032043767713452032",
+              "start": 0,
+              "username": "CABR_Lies"
+            },
+            {
+              "end": 27,
+              "id": "1484072544009347072",
+              "start": 11,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032075153660920004",
+        "in_reply_to_user_id": "2032043767713452032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032047431576404440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies @BelovedUren8964 老公咋回事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032047429558956032"
+          ]
+        },
+        "author_id": "2032043767713452032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032047431576404440",
+        "created_at": "2026-03-12T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032047431576404440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35zXzMHGQf",
+              "end": 85,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047431576404440/photo/1",
+              "media_key": "3_2032047429558956032",
+              "start": 62,
+              "url": "https://t.co/35zXzMHGQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032047431576404440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2079,
+          "like_count": 40,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮我转发一下吗？我是枭儿，睡了一觉不小心把自己睡到平行世界了，号被封掉了。换号是最他娘麻烦的。还得麻烦大家再找一次我。 https://t.co/35zXzMHGQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 171,
+          "like_count": 549,
+          "listed_count": 11,
+          "media_count": 90,
+          "tweet_count": 1410
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T10:39:31.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt #shtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2032043767713452032",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032047608798302418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032044042373173248/P0TOWWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/ 反男反女反跨反人类反一切/支那人没有一个是无辜的/我心里的第一和唯一@Amenyan14_w/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Amenyan14_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2029935282569761105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941021363507201/jjiJM8UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 507,
+          "like_count": 5543,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 4011
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007307232082563280",
+    "created_at": "2026-01-03T04:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T05:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007307520122204248"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007307520122204248",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007307232082563280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你被骗什么了大哥？你被骗了一分钱吗你们别惹我别逼我了好不好我做错什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007307232082563280",
+        "created_at": "2026-01-03T04:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007307520122204248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007307520122204248",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007307232082563280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你被骗什么了大哥？你被骗了一分钱吗你们别惹我别逼我了好不好我做错什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007307232082563280",
+        "created_at": "2026-01-03T04:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007307232082563280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingmengfin/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/lingmengfin/status/2007081316127535302",
+              "start": 46,
+              "url": "https://t.co/MQrXqXPI7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007307232082563280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007081316127535302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味啊我定制V被封了，我门哥门姐都可以给我做证明从来没跑路敷衍谁我做错什么了你什么意思？ https://t.co/MQrXqXPI7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "。",
+        "id": "2007104134466736129",
+        "location": "爱",
+        "name": "裴裴小猫去死了",
+        "pinned_tweet_id": "2007288229364670764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 51,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 45
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

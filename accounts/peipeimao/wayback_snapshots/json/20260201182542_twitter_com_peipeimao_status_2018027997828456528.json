@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2017998653911335415",
+    "created_at": "2026-02-01T18:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T19:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018027997828456528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824816759280738305",
+          "start": 0,
+          "username": "lngy169024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018027997828456528",
+    "in_reply_to_user_id": "1824816759280738305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018015517949546758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngy169024 太崩溃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2017998653911335415",
+        "created_at": "2026-02-01T18:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018027997828456528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824816759280738305",
+              "start": 0,
+              "username": "lngy169024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018027997828456528",
+        "in_reply_to_user_id": "1824816759280738305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018015517949546758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngy169024 太崩溃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824816759280738305",
+        "conversation_id": "2017998653911335415",
+        "created_at": "2026-02-01T17:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018015517949546758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018015517949546758",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017998653911335415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 怎么啦这是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2013410664056832014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 138,
+          "like_count": 287,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 543
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:33:21.000Z",
+        "description": "",
+        "id": "1824816759280738305",
+        "location": "Yorkshire and The Humber, Engl",
+        "name": "聆与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952765519955910659/2HabDTlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 716,
+          "like_count": 6473,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 402
+        },
+        "username": "lngy169024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2039441350249402402",
+    "created_at": "2026-04-02T23:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T00:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039852661072441509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529373912764514304",
+          "start": 0,
+          "username": "AigXiApbPKiX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039852661072441509",
+    "in_reply_to_user_id": "1529373912764514304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039847427788677177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AigXiApbPKiX3 如果你知道我的妻子名叫醒图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2039441350249402402",
+        "created_at": "2026-04-02T23:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039852661072441509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529373912764514304",
+              "start": 0,
+              "username": "AigXiApbPKiX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039852661072441509",
+        "in_reply_to_user_id": "1529373912764514304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039847427788677177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AigXiApbPKiX3 如果你知道我的妻子名叫醒图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529373912764514304",
+        "conversation_id": "2039441350249402402",
+        "created_at": "2026-04-02T23:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039847427788677177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039847427788677177",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039441350249402402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2039441350249402402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038751229426413568/ou37i-jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 175,
+          "like_count": 607,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 1552
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:08:57.000Z",
+        "description": "Relic / レリック",
+        "id": "1529373912764514304",
+        "location": "中野駅",
+        "name": "レリック",
+        "pinned_tweet_id": "2025559340971864375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009458384773492736/PjBe_ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 494,
+          "like_count": 22922,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1009
+        },
+        "username": "AigXiApbPKiX3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021513369749200954",
+    "created_at": "2026-02-11T09:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021513369749200954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lajitongyoulaj…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/lajitongyoulaji/status/2021508258524233899",
+          "start": 56,
+          "url": "https://t.co/mwTIOTb4SX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021513369749200954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021508258524233899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好牛逼啊我粉丝一点也不多吧，盒别人怎么了你知道我被无缘无故骂了很久吗？我的创伤痛苦是他们的谈资，你高高在上了？ https://t.co/mwTIOTb4SX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021513369749200954",
+        "created_at": "2026-02-11T09:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021513369749200954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lajitongyoulaj…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/lajitongyoulaji/status/2021508258524233899",
+              "start": 56,
+              "url": "https://t.co/mwTIOTb4SX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021513369749200954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021508258524233899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好牛逼啊我粉丝一点也不多吧，盒别人怎么了你知道我被无缘无故骂了很久吗？我的创伤痛苦是他们的谈资，你高高在上了？ https://t.co/mwTIOTb4SX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252908934500954113",
+        "conversation_id": "2021480168267903141",
+        "created_at": "2026-02-11T08:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021508258524233899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021508258524233899",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021480168267903141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 所以说 不要跟精神病交朋友 说她两句就精神崩溃要开盒了… 这家伙知道自己粉丝多而且很多人都有渠道买药就怂恿粉丝做这种事，毁掉别人的人生 而且为什么你不自己做呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 153,
+          "like_count": 408,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 825
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T10:35:53.000Z",
+        "description": "想留下美好的回忆",
+        "id": "1252908934500954113",
+        "name": "垃圾桶里有垃圾",
+        "pinned_tweet_id": "1656759774128533510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020611612441292800/y_h2XZSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "username": "lajitongyoulaji",
+        "verified": false
+      }
+    ]
+  }
+}

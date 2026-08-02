@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2039518278985633847",
+    "created_at": "2026-04-02T03:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039540225597382917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476054864027594754",
+          "start": 0,
+          "username": "Shanghai_Repub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039540225597382917",
+    "in_reply_to_user_id": "1476054864027594754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039538625746960611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanghai_Repub 我觉得他比我更有趣👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2039518278985633847",
+        "created_at": "2026-04-02T03:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039540225597382917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476054864027594754",
+              "start": 0,
+              "username": "Shanghai_Repub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039540225597382917",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039538625746960611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanghai_Repub 我觉得他比我更有趣👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476054864027594754",
+        "conversation_id": "2039518278985633847",
+        "created_at": "2026-04-02T03:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039538625746960611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039538625746960611",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039519418435485779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 主播你的灵魂好有趣，可以🚪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2039441350249402402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038751229426413568/ou37i-jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 176,
+          "like_count": 602,
+          "listed_count": 11,
+          "media_count": 101,
+          "tweet_count": 1538
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T05:00:03.000Z",
+        "description": "孩子们我投共了请多多支持。",
+        "id": "1476054864027594754",
+        "name": "聯軍來了我帶路，國軍來了我參加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039123250991476737/cwA5Fq8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 795,
+          "like_count": 11711,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1292
+        },
+        "username": "Shanghai_Repub",
+        "verified": true
+      }
+    ]
+  }
+}

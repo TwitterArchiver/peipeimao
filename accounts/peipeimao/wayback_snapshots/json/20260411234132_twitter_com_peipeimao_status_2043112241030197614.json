@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043112232276594688"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043112241030197614",
+    "created_at": "2026-04-11T23:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T00:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043112241030197614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/94MNH3AW9I",
+          "end": 56,
+          "expanded_url": "https://x.com/peipeimao/status/2043112241030197614/photo/1",
+          "media_key": "3_2043112232276594688",
+          "start": 33,
+          "url": "https://t.co/94MNH3AW9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043112241030197614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "666666谭子康死全家了吗？造谣没成本是吧，屏蔽了还能发你很牛 https://t.co/94MNH3AW9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043112232276594688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqXwBkaEAAT2HD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043112232276594688"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043112241030197614",
+        "created_at": "2026-04-11T23:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043112241030197614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94MNH3AW9I",
+              "end": 56,
+              "expanded_url": "https://x.com/peipeimao/status/2043112241030197614/photo/1",
+              "media_key": "3_2043112232276594688",
+              "start": 33,
+              "url": "https://t.co/94MNH3AW9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043112241030197614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666666谭子康死全家了吗？造谣没成本是吧，屏蔽了还能发你很牛 https://t.co/94MNH3AW9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4592,
+          "following_count": 176,
+          "like_count": 617,
+          "listed_count": 11,
+          "media_count": 107,
+          "tweet_count": 1687
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

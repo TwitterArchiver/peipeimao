@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2009641987847459170",
+    "created_at": "2026-01-10T02:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T03:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009815887004709187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929782343889248257",
+          "start": 0,
+          "username": "ZhanSJRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009815887004709187",
+    "in_reply_to_user_id": "1929782343889248257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009641987847459170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhanSJRT 卡罗素模拟的Lsd啊，没吃过听说类似"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2009641987847459170",
+        "created_at": "2026-01-10T02:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009815887004709187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929782343889248257",
+              "start": 0,
+              "username": "ZhanSJRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009815887004709187",
+        "in_reply_to_user_id": "1929782343889248257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009641987847459170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhanSJRT 卡罗素模拟的Lsd啊，没吃过听说类似"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929782343889248257",
+        "conversation_id": "2009641987847459170",
+        "created_at": "2026-01-09T15:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009641987847459170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009641987847459170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试不知道成分的卡罗素 有没有推油试过的啊 什么成分呢\n9:40 2t 卡罗素\n11:00 体感敏感度上升 震动感 暂无明显幻觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 113,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 209
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T06:09:27.000Z",
+        "description": "不要让致幻剂成为你生活的全部",
+        "id": "1929782343889248257",
+        "location": "ego death",
+        "name": "felixx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989307794369970177/RtYFOw7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 192,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 254
+        },
+        "username": "ZhanSJRT",
+        "verified": false
+      }
+    ]
+  }
+}

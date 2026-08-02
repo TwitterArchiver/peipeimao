@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022678819556200691",
+    "created_at": "2026-02-14T15:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022702139542507634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1473889196511473664",
+          "start": 0,
+          "username": "TAKAYAvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022702139542507634",
+    "in_reply_to_user_id": "1473889196511473664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022683477062320461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAKAYAvs Yeah嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022678819556200691",
+        "created_at": "2026-02-14T15:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022702139542507634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1473889196511473664",
+              "start": 0,
+              "username": "TAKAYAvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022702139542507634",
+        "in_reply_to_user_id": "1473889196511473664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022683477062320461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAKAYAvs Yeah嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473889196511473664",
+        "conversation_id": "2022678819556200691",
+        "created_at": "2026-02-14T14:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022683477062320461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022683477062320461",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022678819556200691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao Very nice ‼️‼️😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 160,
+          "like_count": 466,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1040
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T05:32:32.000Z",
+        "description": "札幌の人 漫画、コスプレ、SF、ミステリー、映画が好きな人　呼びタメ大歓迎です😊",
+        "id": "1473889196511473664",
+        "location": "北海道 ",
+        "name": "TAKAYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784420499306725376/DnCYIWcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 2495,
+          "like_count": 229369,
+          "listed_count": 23,
+          "media_count": 166,
+          "tweet_count": 124516
+        },
+        "username": "TAKAYAvs",
+        "verified": false
+      }
+    ]
+  }
+}

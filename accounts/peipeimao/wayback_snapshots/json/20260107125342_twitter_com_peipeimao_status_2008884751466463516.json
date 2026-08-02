@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008884340432961970",
+    "created_at": "2026-01-07T12:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008884751466463516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008884751466463516",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008884340432961970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "戒烟后我觉得烟味甚至比叶子难闻，虽然电子烟也不知道算不算戒…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008884340432961970",
+        "created_at": "2026-01-07T12:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008884751466463516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008884751466463516",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884340432961970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戒烟后我觉得烟味甚至比叶子难闻，虽然电子烟也不知道算不算戒…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008884340432961970",
+        "created_at": "2026-01-07T12:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008884340432961970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duoduolin0/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/duoduolin0/status/2008453131781501378",
+              "start": 47,
+              "url": "https://t.co/Aw2jYAYW2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008884340432961970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008453131781501378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我要笑死了，你以为烟瘾大的能是什么正常人吗就像我爸，所以他们养出了一个Od宝宝这是因果循环 https://t.co/Aw2jYAYW2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 113,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 165
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

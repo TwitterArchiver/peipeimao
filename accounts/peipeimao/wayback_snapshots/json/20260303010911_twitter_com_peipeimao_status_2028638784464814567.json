@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2028531148243255410",
+    "created_at": "2026-03-03T01:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T02:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028638784464814567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426441673454850051",
+          "start": 0,
+          "username": "SUI20BIUBIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028638784464814567",
+    "in_reply_to_user_id": "1426441673454850051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028633055204688225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUI20BIUBIU 谢谢你🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2028531148243255410",
+        "created_at": "2026-03-03T01:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028638784464814567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426441673454850051",
+              "start": 0,
+              "username": "SUI20BIUBIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028638784464814567",
+        "in_reply_to_user_id": "1426441673454850051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028633055204688225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUI20BIUBIU 谢谢你🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426441673454850051",
+        "conversation_id": "2028531148243255410",
+        "created_at": "2026-03-03T00:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028633055204688225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028633055204688225",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028531148243255410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 太漂亮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 170,
+          "like_count": 520,
+          "listed_count": 10,
+          "media_count": 81,
+          "tweet_count": 1291
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T07:13:05.000Z",
+        "description": "这里sui 堆废话号 不定时掉落照片和摸鱼(淡推中",
+        "id": "1426441673454850051",
+        "name": "不敢换昵称了",
+        "pinned_tweet_id": "1883480529913430384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782714880266731522/OsyYGqWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 625,
+          "like_count": 29392,
+          "listed_count": 14,
+          "media_count": 194,
+          "tweet_count": 4132
+        },
+        "username": "SUI20BIUBIU",
+        "verified": false
+      }
+    ]
+  }
+}

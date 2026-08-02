@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007895012810653864",
+    "created_at": "2026-01-04T19:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T20:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007895012810653864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007895012810653864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007841592254874078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 我是扶梯第二世 欢迎互fo 来者不拒\n色胺狂热爱好者 oder 重度抑郁症\n精分中高 双向情感障碍\n喜欢宗教 佛道 耶稣\n对上眼缘的直fo 看到就回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007895012810653864",
+        "created_at": "2026-01-04T19:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007895012810653864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007068022750814208",
+              "start": 3,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007895012810653864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007841592254874078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futi78999: 我是扶梯第二世 欢迎互fo 来者不拒\n色胺狂热爱好者 oder 重度抑郁症\n精分中高 双向情感障碍\n喜欢宗教 佛道 耶稣\n对上眼缘的直fo 看到就回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007068022750814208",
+        "conversation_id": "2007841592254874078",
+        "created_at": "2026-01-04T15:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007841592254874078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007841592254874078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯第二世 欢迎互fo 来者不拒\n色胺狂热爱好者 oder 重度抑郁症\n精分中高 双向情感障碍\n喜欢宗教 佛道 耶稣\n对上眼缘的直fo 看到就回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "无论转生多少次都要把我找到好吗",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2007192256487534806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 100,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在 色胺宇宙的精灵",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007068170629386240/UIUrDwBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 140,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2037631263675457803",
+    "created_at": "2026-03-27T21:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037636116657111367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1544293818190958593",
+          "start": 0,
+          "username": "xuanguiyaobi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037636116657111367",
+    "in_reply_to_user_id": "1544293818190958593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037633000062714092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanguiyaobi1 没人跟我一起挂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2037631263675457803",
+        "created_at": "2026-03-27T21:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037636116657111367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1544293818190958593",
+              "start": 0,
+              "username": "xuanguiyaobi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037636116657111367",
+        "in_reply_to_user_id": "1544293818190958593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037633000062714092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanguiyaobi1 没人跟我一起挂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544293818190958593",
+        "conversation_id": "2037631263675457803",
+        "created_at": "2026-03-27T20:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T21:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037633000062714092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037633000062714092",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037631263675457803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 挂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037026254185250816/dxUQ0aRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 170,
+          "like_count": 570,
+          "listed_count": 11,
+          "media_count": 92,
+          "tweet_count": 1456
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T12:15:21.000Z",
+        "description": "你好，这里是吴不亏，底层社畜无能狂怒的日子",
+        "id": "1544293818190958593",
+        "name": "千诚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581887320151556097/KG_qnbGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 57,
+          "like_count": 1975,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2499
+        },
+        "username": "xuanguiyaobi1",
+        "verified": false
+      }
+    ]
+  }
+}

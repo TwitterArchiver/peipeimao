@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008901146564599820",
+    "created_at": "2026-01-07T13:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T14:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008901146564599820"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008901146564599820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想跟你们聊天我想跟你们玩可是我爸妈一直在我的家里监视我窥探我打扰我的生活我崩溃，他们只想把我关进医院，如果我的东西被翻出来明天我就会被送去戒的哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008901146564599820",
+        "created_at": "2026-01-07T13:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008901146564599820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008901146564599820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想跟你们聊天我想跟你们玩可是我爸妈一直在我的家里监视我窥探我打扰我的生活我崩溃，他们只想把我关进医院，如果我的东西被翻出来明天我就会被送去戒的哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2008666044588851209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 113,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 165
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

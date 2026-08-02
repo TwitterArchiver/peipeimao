@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063932905861304320"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2063932925146710144",
+    "created_at": "2026-06-08T10:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063932925146710144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5UV3wX2UBY",
+          "end": 32,
+          "expanded_url": "https://x.com/peipeimao/status/2063932925146710144/photo/1",
+          "media_key": "3_2063932905861304320",
+          "start": 9,
+          "url": "https://t.co/5UV3wX2UBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063932925146710144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想我的彩虹发色了 https://t.co/5UV3wX2UBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063932905861304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSQCu4aUAAmhT8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063932905861304320"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2063932925146710144",
+        "created_at": "2026-06-08T10:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063932925146710144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UV3wX2UBY",
+              "end": 32,
+              "expanded_url": "https://x.com/peipeimao/status/2063932925146710144/photo/1",
+              "media_key": "3_2063932905861304320",
+              "start": 9,
+              "url": "https://t.co/5UV3wX2UBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063932925146710144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想我的彩虹发色了 https://t.co/5UV3wX2UBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4682,
+          "following_count": 169,
+          "like_count": 650,
+          "listed_count": 13,
+          "media_count": 103,
+          "tweet_count": 1851
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

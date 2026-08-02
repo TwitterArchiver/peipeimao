@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2017769917165232223",
+    "created_at": "2026-02-28T16:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027780896808702385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023213522055028736",
+          "start": 0,
+          "username": "richnomadic07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027780896808702385",
+    "in_reply_to_user_id": "2023213522055028736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027777343033623028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@richnomadic07 发了也不火，我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2017769917165232223",
+        "created_at": "2026-02-28T16:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027780896808702385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023213522055028736",
+              "start": 0,
+              "username": "richnomadic07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027780896808702385",
+        "in_reply_to_user_id": "2023213522055028736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027777343033623028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@richnomadic07 发了也不火，我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023213522055028736",
+        "conversation_id": "2017769917165232223",
+        "created_at": "2026-02-28T16:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027777343033623028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027777343033623028",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017769917165232223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 这张确实有点神 妆造这些都不说了 发色和穿搭给人一种和谐感 但是你的眼神就像刚诞生在这个世界的孩子 有种对未知的不解和恐惧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3861,
+          "following_count": 171,
+          "like_count": 518,
+          "listed_count": 9,
+          "media_count": 78,
+          "tweet_count": 1265
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T01:51:20.000Z",
+        "description": "美好的每一天 不连续存在",
+        "id": "2023213522055028736",
+        "location": "Boston, MA",
+        "name": "Ruich",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023213707199938560/HJ5VEV0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 35,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 195
+        },
+        "username": "richnomadic07",
+        "verified": false
+      }
+    ]
+  }
+}

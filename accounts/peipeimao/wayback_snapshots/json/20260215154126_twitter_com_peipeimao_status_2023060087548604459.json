@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022964193692123556",
+    "created_at": "2026-02-15T15:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023060087548604459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1623974634520563712",
+          "start": 0,
+          "username": "burstrash"
+        },
+        {
+          "end": 21,
+          "id": "1986837441874173955",
+          "start": 11,
+          "username": "pepeiii66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023060087548604459",
+    "in_reply_to_user_id": "1623974634520563712",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023059670144057405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@burstrash @pepeiii66"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022964193692123556",
+        "created_at": "2026-02-15T15:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023060087548604459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1623974634520563712",
+              "start": 0,
+              "username": "burstrash"
+            },
+            {
+              "end": 21,
+              "id": "1986837441874173955",
+              "start": 11,
+              "username": "pepeiii66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023060087548604459",
+        "in_reply_to_user_id": "1623974634520563712",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023059670144057405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@burstrash @pepeiii66"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623974634520563712",
+        "conversation_id": "2022964193692123556",
+        "created_at": "2026-02-15T15:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023059670144057405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023059670144057405",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022964193692123556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 那么哪里可以买到呢✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 161,
+          "like_count": 472,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1066
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-10T09:20:22.000Z",
+        "description": "单机版， 是狗狗的朋友   野路子 重塑日期January 22",
+        "id": "1623974634520563712",
+        "name": "夕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646567776000114707/UBkjWiUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 490,
+          "like_count": 8240,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 3276
+        },
+        "username": "burstrash",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:45:48.000Z",
+        "description": "点菜https://t.co/RDcVxOvkGw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 25,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 2,
+                "url": "https://t.co/RDcVxOvkGw"
+              }
+            ]
+          }
+        },
+        "id": "1986837441874173955",
+        "location": "✉️",
+        "name": "不命名",
+        "pinned_tweet_id": "1994764842704699839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017457510026985472/azfEUCF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 82,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 126
+        },
+        "username": "pepeiii66",
+        "verified": false
+      }
+    ]
+  }
+}

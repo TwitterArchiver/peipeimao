@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2066406976947687733",
+    "created_at": "2026-06-15T17:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066578015027679693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910466818810265600",
+          "start": 0,
+          "username": "LHB9pKtzcz27419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066578015027679693",
+    "in_reply_to_user_id": "1910466818810265600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066406976947687733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LHB9pKtzcz27419 真的吗💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2066406976947687733",
+        "created_at": "2026-06-15T17:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066578015027679693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910466818810265600",
+              "start": 0,
+              "username": "LHB9pKtzcz27419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066578015027679693",
+        "in_reply_to_user_id": "1910466818810265600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066406976947687733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LHB9pKtzcz27419 真的吗💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910466818810265600",
+        "conversation_id": "2066406976947687733",
+        "created_at": "2026-06-15T06:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066406976947687733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/peipeimao/status/2030659794974220540",
+              "start": 5,
+              "url": "https://t.co/H244w7mHTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066406976947687733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030659794974220540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "てぇてぇ https://t.co/H244w7mHTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4663,
+          "following_count": 166,
+          "like_count": 672,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 1884
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T22:56:10.000Z",
+        "description": "",
+        "id": "1910466818810265600",
+        "name": "いらじ",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 383,
+          "like_count": 4145,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 484
+        },
+        "username": "LHB9pKtzcz27419",
+        "verified": false
+      }
+    ]
+  }
+}

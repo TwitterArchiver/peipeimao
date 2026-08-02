@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2018637136862573030",
+    "created_at": "2026-02-03T11:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018640874004177283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706233044439568384",
+          "start": 0,
+          "username": "6RJB036wzL92710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018640874004177283",
+    "in_reply_to_user_id": "1706233044439568384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018639656209056134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6RJB036wzL92710 没有进食欲望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018637136862573030",
+        "created_at": "2026-02-03T11:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018640874004177283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706233044439568384",
+              "start": 0,
+              "username": "6RJB036wzL92710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018640874004177283",
+        "in_reply_to_user_id": "1706233044439568384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018639656209056134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6RJB036wzL92710 没有进食欲望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706233044439568384",
+        "conversation_id": "2018637136862573030",
+        "created_at": "2026-02-03T10:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018639656209056134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018639656209056134",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018637136862573030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 犯恶心吗，还是胃口不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 138,
+          "like_count": 315,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 657
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T09:04:01.000Z",
+        "description": "",
+        "id": "1706233044439568384",
+        "location": "Japan",
+        "name": "黑濑令儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013899386812760065/23Omq9S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 285
+        },
+        "username": "6RJB036wzL92710",
+        "verified": false
+      }
+    ]
+  }
+}

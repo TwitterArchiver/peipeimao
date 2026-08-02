@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2029155060878578033",
+    "created_at": "2026-03-04T11:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029156113741128160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029156113741128160",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029155060878578033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被这种精神压力快一年了，很痛苦 很痛苦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029155052062162944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkBxNhawAAinE0.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029155052070518784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkBxNjaQAAqVAX.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029155060878578033",
+        "created_at": "2026-03-04T11:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029156113741128160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029156113741128160",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029155060878578033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被这种精神压力快一年了，很痛苦 很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029155052062162944",
+            "3_2029155052070518784"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029155060878578033",
+        "created_at": "2026-03-04T11:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029155060878578033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "848887445550649354",
+              "start": 95,
+              "username": "123Balzac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnYN2JphFl",
+              "end": 144,
+              "expanded_url": "https://x.com/peipeimao/status/2029155060878578033/photo/1",
+              "media_key": "3_2029155052062162944",
+              "start": 121,
+              "url": "https://t.co/tnYN2JphFl"
+            },
+            {
+              "display_url": "pic.x.com/tnYN2JphFl",
+              "end": 144,
+              "expanded_url": "https://x.com/peipeimao/status/2029155060878578033/photo/1",
+              "media_key": "3_2029155052070518784",
+              "start": 121,
+              "url": "https://t.co/tnYN2JphFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029155060878578033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后不接这种爱欺负贬低小女孩，甚至上我家堵门，各种威胁我开很多号骚扰我，一直贬低我自残和Od，完全没有把我当作人看待。他上门甚至是被警察赶走的。我很累了，我没做过任何违法的事情。这个人推特是@123Balzac 不要再打扰我了，我今天就自杀 https://t.co/tnYN2JphFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 168,
+          "like_count": 522,
+          "listed_count": 10,
+          "media_count": 83,
+          "tweet_count": 1315
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

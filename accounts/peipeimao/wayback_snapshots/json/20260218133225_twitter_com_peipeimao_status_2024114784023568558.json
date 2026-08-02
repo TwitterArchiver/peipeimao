@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2024114784023568558",
+    "created_at": "2026-02-18T13:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024114784023568558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyoovo6june1/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yoyoovo6june1/status/2023310425362964857",
+          "start": 15,
+          "url": "https://t.co/Bq64CIDJ57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024114784023568558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023310425362964857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能当我哥哥，我有斯德哥尔摩 https://t.co/Bq64CIDJ57"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2024114784023568558",
+        "created_at": "2026-02-18T13:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024114784023568558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyoovo6june1/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yoyoovo6june1/status/2023310425362964857",
+              "start": 15,
+              "url": "https://t.co/Bq64CIDJ57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024114784023568558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023310425362964857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能当我哥哥，我有斯德哥尔摩 https://t.co/Bq64CIDJ57"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986701339628609536",
+        "conversation_id": "2023310425362964857",
+        "created_at": "2026-02-16T08:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023310425362964857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023310425362964857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 405200,
+          "like_count": 1541,
+          "quote_count": 62,
+          "reply_count": 54,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "叫哥哥世界上有比哥哥更色情的称呼吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3181,
+          "following_count": 164,
+          "like_count": 491,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 1127
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "location": "傻逼都滚远点 ",
+        "name": "优乐美嘉",
+        "pinned_tweet_id": "2022331897742016774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012914474978611200/xVHVRopE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 380,
+          "like_count": 7217,
+          "listed_count": 2,
+          "media_count": 675,
+          "tweet_count": 3398
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

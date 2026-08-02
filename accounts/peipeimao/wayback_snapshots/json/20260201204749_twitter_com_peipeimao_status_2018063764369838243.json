@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2017809030048321713",
+    "created_at": "2026-02-01T20:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T21:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018063764369838243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1778480836515672064",
+          "start": 0,
+          "username": "Riily6an"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018063764369838243",
+    "in_reply_to_user_id": "1778480836515672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017809030048321713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riily6an 我真羡慕了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017809010163130368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACymptbIAAALnk.jpg",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2017809030048321713",
+        "created_at": "2026-02-01T20:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018063764369838243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1778480836515672064",
+              "start": 0,
+              "username": "Riily6an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018063764369838243",
+        "in_reply_to_user_id": "1778480836515672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017809030048321713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riily6an 我真羡慕了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017809010163130368"
+          ]
+        },
+        "author_id": "1778480836515672064",
+        "conversation_id": "2017809030048321713",
+        "created_at": "2026-02-01T03:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017809030048321713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fV8Mis0NCb",
+              "end": 55,
+              "expanded_url": "https://x.com/Riily6an/status/2017809030048321713/photo/1",
+              "media_key": "3_2017809010163130368",
+              "start": 32,
+              "url": "https://t.co/fV8Mis0NCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017809030048321713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 205343,
+          "like_count": 395,
+          "quote_count": 3,
+          "reply_count": 91,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陪着🚪姐逛街 她只需要负责买 我只需要负责扫码刷卡 有点过头了 https://t.co/fV8Mis0NCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 140,
+          "like_count": 294,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 563
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T17:50:57.000Z",
+        "description": "玩英雄联盟手游的发信息给我 带上数据图立马添加好友",
+        "id": "1778480836515672064",
+        "name": "Runa",
+        "pinned_tweet_id": "2017539661812666425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017475049268383751/6JZZBhPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 17
+        },
+        "username": "Riily6an",
+        "verified": false
+      }
+    ]
+  }
+}

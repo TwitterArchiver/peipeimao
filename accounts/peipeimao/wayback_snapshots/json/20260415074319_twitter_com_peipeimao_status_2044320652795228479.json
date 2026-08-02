@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2044312782451950028",
+    "created_at": "2026-04-15T07:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044320652795228479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990243522738540544",
+          "start": 0,
+          "username": "hana9226Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044320652795228479",
+    "in_reply_to_user_id": "1990243522738540544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044312782451950028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hana9226Y 这个恶心的不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2044312736843132928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7bmllXcAAowQ0.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2044312782451950028",
+        "created_at": "2026-04-15T07:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044320652795228479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990243522738540544",
+              "start": 0,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044320652795228479",
+        "in_reply_to_user_id": "1990243522738540544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044312782451950028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hana9226Y 这个恶心的不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044312736843132928"
+          ]
+        },
+        "author_id": "1990243522738540544",
+        "conversation_id": "2044312782451950028",
+        "created_at": "2026-04-15T07:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044312782451950028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ba50YSkcIi",
+              "end": 65,
+              "expanded_url": "https://x.com/hana9226Y/status/2044312782451950028/photo/1",
+              "media_key": "3_2044312736843132928",
+              "start": 42,
+              "url": "https://t.co/ba50YSkcIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044312782451950028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈 挂号费12\n开这个b破药85块多\n操你妈贵的够买老子命了\n老子都没钱去缝针 https://t.co/ba50YSkcIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n128好友位/300情绪价值陪聊/520我爱你",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4649,
+          "following_count": 173,
+          "like_count": 608,
+          "listed_count": 12,
+          "media_count": 114,
+          "tweet_count": 1776
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "我是花9226 可以叫我花玖",
+        "id": "1990243522738540544",
+        "location": "天國",
+        "name": "花9226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040843209278988288/cUX_jNZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 427,
+          "like_count": 6184,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 966
+        },
+        "username": "hana9226Y",
+        "verified": false
+      }
+    ]
+  }
+}

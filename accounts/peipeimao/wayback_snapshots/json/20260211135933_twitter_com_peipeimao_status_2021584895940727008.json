@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021584886533083137"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021584895940727008",
+    "created_at": "2026-02-11T13:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021584895940727008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/06gwWHn982",
+          "end": 41,
+          "expanded_url": "https://x.com/peipeimao/status/2021584895940727008/photo/1",
+          "media_key": "3_2021584886533083137",
+          "start": 18,
+          "url": "https://t.co/06gwWHn982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021584895940727008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你喜欢我我就要按照你的预设做事吗？ https://t.co/06gwWHn982"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2021584886533083137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4cvlUaUAE9hqP.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021584886533083137"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021584895940727008",
+        "created_at": "2026-02-11T13:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021584895940727008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06gwWHn982",
+              "end": 41,
+              "expanded_url": "https://x.com/peipeimao/status/2021584895940727008/photo/1",
+              "media_key": "3_2021584886533083137",
+              "start": 18,
+              "url": "https://t.co/06gwWHn982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021584895940727008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你喜欢我我就要按照你的预设做事吗？ https://t.co/06gwWHn982"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 157,
+          "like_count": 409,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 844
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043720547578900903",
+    "created_at": "2026-04-13T17:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043742899624653227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797267786651279360",
+          "start": 0,
+          "username": "JingAn1330857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043742899624653227",
+    "in_reply_to_user_id": "1797267786651279360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043737948462702797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JingAn1330857 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043720547578900903",
+        "created_at": "2026-04-13T17:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043742899624653227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797267786651279360",
+              "start": 0,
+              "username": "JingAn1330857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043742899624653227",
+        "in_reply_to_user_id": "1797267786651279360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043737948462702797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JingAn1330857 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797267786651279360",
+        "conversation_id": "2043720547578900903",
+        "created_at": "2026-04-13T17:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043737948462702797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043737948462702797",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043720547578900903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 吃好喝好，玩好摸摸，都会好起来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 172,
+          "like_count": 614,
+          "listed_count": 11,
+          "media_count": 113,
+          "tweet_count": 1757
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:04:04.000Z",
+        "description": "",
+        "id": "1797267786651279360",
+        "name": "Jing An",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797272446174945281/BWrRcA4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 1345,
+          "like_count": 2019,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1986
+        },
+        "username": "JingAn1330857",
+        "verified": false
+      }
+    ]
+  }
+}

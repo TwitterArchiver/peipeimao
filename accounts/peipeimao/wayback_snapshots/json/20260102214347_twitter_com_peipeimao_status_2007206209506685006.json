@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007201381086835100",
+    "created_at": "2026-01-02T21:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T22:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007206209506685006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986837441874173955",
+          "start": 0,
+          "username": "pepeiii66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007206209506685006",
+    "in_reply_to_user_id": "1986837441874173955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007201381086835100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pepeiii66 我真的有罪吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007201381086835100",
+        "created_at": "2026-01-02T21:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T22:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007206209506685006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986837441874173955",
+              "start": 0,
+              "username": "pepeiii66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007206209506685006",
+        "in_reply_to_user_id": "1986837441874173955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007201381086835100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pepeiii66 我真的有罪吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986837441874173955",
+        "conversation_id": "2007201381086835100",
+        "created_at": "2026-01-02T21:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T22:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007201381086835100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007201381086835100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有罪吗 有罪吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "转生一下吧",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "裴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:45:48.000Z",
+        "description": "你不是一片连月亮也厌恶的墓地",
+        "id": "1986837441874173955",
+        "location": "角落",
+        "name": "Seraphina",
+        "pinned_tweet_id": "1987066208718626827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996705689427988480/ZQk98GYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 143
+        },
+        "username": "pepeiii66",
+        "verified": false
+      }
+    ]
+  }
+}

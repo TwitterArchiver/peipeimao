@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2013257453979189458",
+    "created_at": "2026-01-20T02:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T03:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013437471984435226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966188117163134976",
+          "start": 0,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013437471984435226",
+    "in_reply_to_user_id": "1966188117163134976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013257453979189458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auawyzzk 你咋这么惨 不哭了抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013257450288214017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CG-_3WcAEkgsW.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013257444382715904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CG-p3XsAA6DOS.jpg",
+        "width": 921
+      },
+      {
+        "height": 857,
+        "media_key": "3_2013257438246359040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CG-TAWUAAOTeh.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2013257453979189458",
+        "created_at": "2026-01-20T02:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013437471984435226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013437471984435226",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013257453979189458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk 你咋这么惨 不哭了抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013257450288214017",
+            "3_2013257444382715904",
+            "3_2013257438246359040"
+          ]
+        },
+        "author_id": "1966188117163134976",
+        "conversation_id": "2013257453979189458",
+        "created_at": "2026-01-19T14:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013257453979189458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oV1QWFDvsZ",
+              "end": 85,
+              "expanded_url": "https://x.com/auawyzzk/status/2013257453979189458/photo/1",
+              "media_key": "3_2013257450288214017",
+              "start": 62,
+              "url": "https://t.co/oV1QWFDvsZ"
+            },
+            {
+              "display_url": "pic.x.com/oV1QWFDvsZ",
+              "end": 85,
+              "expanded_url": "https://x.com/auawyzzk/status/2013257453979189458/photo/1",
+              "media_key": "3_2013257444382715904",
+              "start": 62,
+              "url": "https://t.co/oV1QWFDvsZ"
+            },
+            {
+              "display_url": "pic.x.com/oV1QWFDvsZ",
+              "end": 85,
+              "expanded_url": "https://x.com/auawyzzk/status/2013257453979189458/photo/1",
+              "media_key": "3_2013257438246359040",
+              "start": 62,
+              "url": "https://t.co/oV1QWFDvsZ"
+            },
+            {
+              "display_url": "x.com/auawyzzk/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/auawyzzk/status/2008600558664647118",
+              "start": 86,
+              "url": "https://t.co/PEoHISBtlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013257453979189458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008600558664647118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人说我置顶只有几句话 看着像编的 我想着那我写详细点吧 写完初中我哭的不行 后面的等我缓过来再写吧 到时候直接发评论区了 https://t.co/oV1QWFDvsZ https://t.co/PEoHISBtlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 134,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 390
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "每天挂壁吃拼好饭中 双相 自残 od ⚠️负能很多⚠️ 想要朋友 缺爱逼 00 188 70 林俊杰是神 想下辈子变成小女孩 不友跨",
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2013257453979189458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966192998833860609/HNU7N_cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 63,
+          "like_count": 8552,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 6008
+        },
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

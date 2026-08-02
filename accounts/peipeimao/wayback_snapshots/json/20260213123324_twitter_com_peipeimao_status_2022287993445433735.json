@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022287993445433735",
+    "created_at": "2026-02-13T12:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022287993445433735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peipeimao/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/peipeimao/status/2022259769156001951",
+          "start": 16,
+          "url": "https://t.co/eUb1lYXDQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022287993445433735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022259769156001951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱歉发了一堆牢骚还是看我的脸吧 https://t.co/eUb1lYXDQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11750,
+        "height": 720,
+        "media_key": "13_2022259686469484544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022259686469484544/img/QaAW0USrxQMET3FU.jpg",
+        "public_metrics": {
+          "view_count": 157
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022259686469484544/vid/avc1/480x270/YfAMZamMzDUQlF-u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022259686469484544/vid/avc1/640x360/j3BtqiluvZcBRA47.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022259686469484544/vid/avc1/1280x720/2CESS46BDWb0ixBp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022259686469484544/pl/lOjNSiTowHUFYKN0.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022287993445433735",
+        "created_at": "2026-02-13T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022287993445433735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/peipeimao/status/2022259769156001951",
+              "start": 16,
+              "url": "https://t.co/eUb1lYXDQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022287993445433735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022259769156001951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱歉发了一堆牢骚还是看我的脸吧 https://t.co/eUb1lYXDQX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022259686469484544"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022259769156001951",
+        "created_at": "2026-02-13T10:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022259769156001951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjP4Wh2Ahv",
+              "end": 23,
+              "expanded_url": "https://x.com/peipeimao/status/2022259769156001951/video/1",
+              "media_key": "13_2022259686469484544",
+              "start": 0,
+              "url": "https://t.co/UjP4Wh2Ahv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022259769156001951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UjP4Wh2Ahv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 158,
+          "like_count": 439,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 963
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

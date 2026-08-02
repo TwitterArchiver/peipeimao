@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2024652871481086235",
+    "created_at": "2026-02-20T01:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024652871481086235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986837441874173955",
+          "start": 3,
+          "username": "psyunnamed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024652871481086235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024652175344128368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psyunnamed: 我们总觉得自己有一天会离开药物，或者疯狂地结束。但在这之前多一点温柔和耐心吧，多一点宽容和爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2024652871481086235",
+        "created_at": "2026-02-20T01:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024652871481086235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986837441874173955",
+              "start": 3,
+              "username": "psyunnamed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024652871481086235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024652175344128368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psyunnamed: 我们总觉得自己有一天会离开药物，或者疯狂地结束。但在这之前多一点温柔和耐心吧，多一点宽容和爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986837441874173955",
+        "conversation_id": "2024652175344128368",
+        "created_at": "2026-02-20T01:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024652175344128368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024652175344128368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们总觉得自己有一天会离开药物，或者疯狂地结束。但在这之前多一点温柔和耐心吧，多一点宽容和爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 171,
+          "like_count": 497,
+          "listed_count": 8,
+          "media_count": 72,
+          "tweet_count": 1152
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:45:48.000Z",
+        "description": "天生精神病/咨询交流沟通友好/同类每一个都会互Fo/平价色胺供应/不用质疑我是什么小作坊，熟悉的人知道我。并且我自己也要吃。🧪点菜https://t.co/RDcVxOvkGw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 88,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 65,
+                "url": "https://t.co/RDcVxOvkGw"
+              }
+            ]
+          }
+        },
+        "id": "1986837441874173955",
+        "location": "✉️",
+        "name": "不命名",
+        "pinned_tweet_id": "1994764842704699839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024024235845582848/DprGFWmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 197,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 166
+        },
+        "username": "psyunnamed",
+        "verified": false
+      }
+    ]
+  }
+}

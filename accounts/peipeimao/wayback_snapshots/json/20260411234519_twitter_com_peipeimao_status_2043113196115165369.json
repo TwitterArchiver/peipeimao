@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043112582937223231",
+    "created_at": "2026-04-11T23:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T00:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043113196115165369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043113196115165369",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043112582937223231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性压抑来咯！我会让你感受铁与血的愤怒哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043112570203389952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqYDscbwAAcas8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043112582937223231",
+        "created_at": "2026-04-11T23:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043113196115165369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043113196115165369",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043112582937223231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性压抑来咯！我会让你感受铁与血的愤怒哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043112570203389952"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043112582937223231",
+        "created_at": "2026-04-11T23:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043112582937223231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzrJz2CmIu",
+              "end": 30,
+              "expanded_url": "https://x.com/peipeimao/status/2043112582937223231/photo/1",
+              "media_key": "3_2043112570203389952",
+              "start": 7,
+              "url": "https://t.co/jzrJz2CmIu"
+            },
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/peipeimao/status/2042913141559038352",
+              "start": 31,
+              "url": "https://t.co/3VnEdBLLkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043112582937223231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042913141559038352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谭子康来咯！ https://t.co/jzrJz2CmIu https://t.co/3VnEdBLLkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4592,
+          "following_count": 176,
+          "like_count": 617,
+          "listed_count": 11,
+          "media_count": 108,
+          "tweet_count": 1688
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

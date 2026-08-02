@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2032834020783042597",
+    "created_at": "2026-03-14T16:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032863198278500761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917890381104271361",
+          "start": 0,
+          "username": "AV1O492"
+        },
+        {
+          "end": 19,
+          "id": "1641968587102621696",
+          "start": 9,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032863198278500761",
+    "in_reply_to_user_id": "1917890381104271361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032834020783042597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AV1O492 @0voki33Me 老公你咋死去活来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2032833996313473027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTv82aMAMEoRn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032833995411697667",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTv5faMAMR2y0.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 8893,
+        "height": 1280,
+        "media_key": "7_2032833996556750848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2032833996556750848/pu/img/p6EXh2bV49y_zBNZ.jpg",
+        "public_metrics": {
+          "view_count": 226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/320x568/2bOxCFSDcvXaHcCd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/480x852/ydk5V8fASR7eVbin.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/vid/avc1/720x1280/_sFGXTabkLoAiJmD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2032833996556750848/pu/pl/UEf4QEmnriTGzIE1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032833998909747206",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTwGhaMAYlc_h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2032834020783042597",
+        "created_at": "2026-03-14T16:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032863198278500761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            },
+            {
+              "end": 19,
+              "id": "1641968587102621696",
+              "start": 9,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032863198278500761",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032834020783042597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 @0voki33Me 老公你咋死去活来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032833996313473027",
+            "3_2032833995411697667",
+            "7_2032833996556750848",
+            "3_2032833998909747206"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032834020783042597",
+        "created_at": "2026-03-14T14:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032834020783042597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 136,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 151,
+              "start": 145,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "3_2032833996313473027",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            },
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "3_2032833995411697667",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            },
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "7_2032833996556750848",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            },
+            {
+              "display_url": "pic.x.com/XUHPBoSa56",
+              "end": 175,
+              "expanded_url": "https://x.com/AV1O492/status/2032834020783042597/video/1",
+              "media_key": "3_2032833998909747206",
+              "start": 152,
+              "url": "https://t.co/XUHPBoSa56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032834020783042597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1091,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的们可以点一下帮我转发吗？我是新中国第一毒枭DizzyRichter，因邮箱不稳前段日子封了一个又一个号\n现在就稳定就用这个号了，要是再无缘无故封禁我给你们办转抽发钱，麻烦大家一遍一遍关注我了\n以前一起玩的朋友们你们回来吧你们不在的时候我老癫痫\nlove y'all\n#drugtwt #shtwt https://t.co/XUHPBoSa56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 174,
+          "like_count": 553,
+          "listed_count": 11,
+          "media_count": 90,
+          "tweet_count": 1419
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 33,
+          "like_count": 1850,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1156,
+          "like_count": 5666,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 4263
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2038685829485547824",
+    "created_at": "2026-03-30T18:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038685829485547824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038685829485547824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这种穷人抑郁起来又割又哭又跳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2038685829485547824",
+        "created_at": "2026-03-30T18:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038685829485547824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038685829485547824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这种穷人抑郁起来又割又哭又跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037026254185250816/dxUQ0aRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4536,
+          "following_count": 173,
+          "like_count": 596,
+          "listed_count": 11,
+          "media_count": 95,
+          "tweet_count": 1494
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

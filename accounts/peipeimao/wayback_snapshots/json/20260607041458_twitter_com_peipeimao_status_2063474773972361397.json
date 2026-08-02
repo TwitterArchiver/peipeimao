@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2063474773972361397",
+    "created_at": "2026-06-07T04:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063474773972361397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063474773972361397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这世界上是一大群公狗母狗乐乐悲悲喜喜糖糖超天酱因特内特呀咩咯摩多摩多哈亚库摩多摩多哈亚库摩多摩多呐呐小鬼杂扣杂扣，而我呢，我最直白最简单最不绕弯子地告诉你我只是一个乐乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2063474773972361397",
+        "created_at": "2026-06-07T04:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063474773972361397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063474773972361397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这世界上是一大群公狗母狗乐乐悲悲喜喜糖糖超天酱因特内特呀咩咯摩多摩多哈亚库摩多摩多哈亚库摩多摩多呐呐小鬼杂扣杂扣，而我呢，我最直白最简单最不绕弯子地告诉你我只是一个乐乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4662,
+          "following_count": 168,
+          "like_count": 634,
+          "listed_count": 13,
+          "media_count": 101,
+          "tweet_count": 1837
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063575943629975552"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2063576011938386221",
+    "created_at": "2026-06-07T10:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063576011938386221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H1DtrAPgvC",
+          "end": 46,
+          "expanded_url": "https://x.com/peipeimao/status/2063576011938386221/video/1",
+          "media_key": "13_2063575943629975552",
+          "start": 23,
+          "url": "https://t.co/H1DtrAPgvC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063576011938386221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欧坤这个号终于回到我想发什么就发什么的状态了 https://t.co/H1DtrAPgvC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8666,
+        "height": 1280,
+        "media_key": "13_2063575943629975552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063575943629975552/img/VqXACwffUsVkdUuS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063575943629975552/vid/avc1/320x568/OIE-tnCP8pjSZXzI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063575943629975552/vid/avc1/480x852/p-zcCbgbMYHHDovg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063575943629975552/vid/avc1/720x1280/1Snpb3ETZ_K4mPD5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063575943629975552/pl/hEpzBB_RDW0oMVDZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063575943629975552"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2063576011938386221",
+        "created_at": "2026-06-07T10:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063576011938386221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1DtrAPgvC",
+              "end": 46,
+              "expanded_url": "https://x.com/peipeimao/status/2063576011938386221/video/1",
+              "media_key": "13_2063575943629975552",
+              "start": 23,
+              "url": "https://t.co/H1DtrAPgvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063576011938386221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧坤这个号终于回到我想发什么就发什么的状态了 https://t.co/H1DtrAPgvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 169,
+          "like_count": 639,
+          "listed_count": 13,
+          "media_count": 102,
+          "tweet_count": 1845
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2030818150267367638",
+    "created_at": "2026-03-09T01:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T02:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030818150267367638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030818150267367638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真要被爸妈强制送医院了，哦纽币威胁我送精卫，我跑路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2030818150267367638",
+        "created_at": "2026-03-09T01:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T02:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030818150267367638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030818150267367638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真要被爸妈强制送医院了，哦纽币威胁我送精卫，我跑路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 171,
+          "like_count": 542,
+          "listed_count": 10,
+          "media_count": 87,
+          "tweet_count": 1383
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

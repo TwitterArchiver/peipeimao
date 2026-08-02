@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022554141030277192",
+    "created_at": "2026-02-14T06:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T07:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022554141030277192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/christina35785…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/christina357853/status/1990380838853451879",
+          "start": 31,
+          "url": "https://t.co/QG9I2CEATc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022554141030277192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990380838853451879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是，如果那天没被送Icu我就是完美自杀，无知觉的幸福死亡 https://t.co/QG9I2CEATc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022554141030277192",
+        "created_at": "2026-02-14T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022554141030277192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/christina35785…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/christina357853/status/1990380838853451879",
+              "start": 31,
+              "url": "https://t.co/QG9I2CEATc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022554141030277192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990380838853451879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，如果那天没被送Icu我就是完美自杀，无知觉的幸福死亡 https://t.co/QG9I2CEATc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "1981743199816200424",
+        "created_at": "2025-11-17T11:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990380838853451879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990380838853451879",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981743199816200424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six o圈死法就多了去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 159,
+          "like_count": 451,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 1014
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 314,
+          "like_count": 29046,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "Christina357853",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022685633484038641",
+    "created_at": "2026-02-14T15:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022695273169064280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022695273169064280",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022685633484038641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2022685624369852416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIF29TasAA6n0r.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022685624353099776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIF29PbEAAM4VL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022685624374034432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIF29UagAA3Xqo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022685624386621445",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIF29XakAUVE1o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022685633484038641",
+        "created_at": "2026-02-14T15:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022695273169064280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022695273169064280",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022685633484038641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022685624369852416",
+            "3_2022685624353099776",
+            "3_2022685624374034432",
+            "3_2022685624386621445"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2022685633484038641",
+        "created_at": "2026-02-14T14:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022685633484038641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJf8JjdF5G",
+              "end": 42,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2022685633484038641/photo/1",
+              "media_key": "3_2022685624369852416",
+              "start": 19,
+              "url": "https://t.co/yJf8JjdF5G"
+            },
+            {
+              "display_url": "pic.x.com/yJf8JjdF5G",
+              "end": 42,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2022685633484038641/photo/1",
+              "media_key": "3_2022685624353099776",
+              "start": 19,
+              "url": "https://t.co/yJf8JjdF5G"
+            },
+            {
+              "display_url": "pic.x.com/yJf8JjdF5G",
+              "end": 42,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2022685633484038641/photo/1",
+              "media_key": "3_2022685624374034432",
+              "start": 19,
+              "url": "https://t.co/yJf8JjdF5G"
+            },
+            {
+              "display_url": "pic.x.com/yJf8JjdF5G",
+              "end": 42,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2022685633484038641/photo/1",
+              "media_key": "3_2022685624386621445",
+              "start": 19,
+              "url": "https://t.co/yJf8JjdF5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022685633484038641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前原来也是可以原相机直出的人啊… https://t.co/yJf8JjdF5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 160,
+          "like_count": 466,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1035
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 528,
+          "like_count": 14443,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 7336
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

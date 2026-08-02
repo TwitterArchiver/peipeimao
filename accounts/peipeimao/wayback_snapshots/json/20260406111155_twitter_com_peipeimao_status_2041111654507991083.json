@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2041107346404065432",
+    "created_at": "2026-04-06T11:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041111654507991083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797267786651279360",
+          "start": 0,
+          "username": "JingAn1330857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041111654507991083",
+    "in_reply_to_user_id": "1797267786651279360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041109997992673690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JingAn1330857 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2041107346404065432",
+        "created_at": "2026-04-06T11:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041111654507991083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797267786651279360",
+              "start": 0,
+              "username": "JingAn1330857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041111654507991083",
+        "in_reply_to_user_id": "1797267786651279360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041109997992673690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JingAn1330857 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797267786651279360",
+        "conversation_id": "2041107346404065432",
+        "created_at": "2026-04-06T11:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041109997992673690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041109997992673690",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041107346404065432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 170,
+          "like_count": 615,
+          "listed_count": 10,
+          "media_count": 101,
+          "tweet_count": 1616
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:04:04.000Z",
+        "description": "",
+        "id": "1797267786651279360",
+        "name": "Jing An",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797272446174945281/BWrRcA4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1342,
+          "like_count": 2004,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1921
+        },
+        "username": "JingAn1330857",
+        "verified": false
+      }
+    ]
+  }
+}

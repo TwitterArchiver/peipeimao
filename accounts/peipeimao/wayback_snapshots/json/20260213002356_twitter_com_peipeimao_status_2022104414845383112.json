@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021745238818120039",
+    "created_at": "2026-02-13T00:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T01:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022104414845383112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850329593728917504",
+          "start": 0,
+          "username": "Tristesse_demer"
+        },
+        {
+          "end": 33,
+          "id": "1980396569363935232",
+          "start": 17,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022104414845383112",
+    "in_reply_to_user_id": "1850329593728917504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022094543496307119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tristesse_demer @Disturbeuphoric 原来这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021745238818120039",
+        "created_at": "2026-02-13T00:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022104414845383112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850329593728917504",
+              "start": 0,
+              "username": "Tristesse_demer"
+            },
+            {
+              "end": 33,
+              "id": "1980396569363935232",
+              "start": 17,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022104414845383112",
+        "in_reply_to_user_id": "1850329593728917504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022094543496307119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tristesse_demer @Disturbeuphoric 原来这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2021745238818120039",
+        "created_at": "2026-02-12T23:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022094543496307119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            },
+            {
+              "end": 27,
+              "id": "1980396569363935232",
+              "start": 11,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022094543496307119",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021795369726963897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao @Disturbeuphoric 可卡因吸久了會耳鳴e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我请求你保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 157,
+          "like_count": 435,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 935
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "日常調戲警察 憂鬱逼 酗酒逼 嗑藥逼 吸d逼 非常友好 非國人望周知",
+        "id": "1850329593728917504",
+        "location": "London, England",
+        "name": "Douleur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021386638820294656/nOR5Jx-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 44,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 178
+        },
+        "username": "Tristesse_demer",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "我特立独行，有些离经叛道。宅男. 我的身体对药物和酒精过敏。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我饱受焦虑困扰，我无法忍受暴力。我把我的情绪状态和艺术分享给你。我希望你能以善意接纳真实的我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBVIBT"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2008691893031292949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005825792106700800/JKRlw9KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 132,
+          "like_count": 8330,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/OARyaBVIBT",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2029164327786430718",
+    "created_at": "2026-03-04T12:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029170269512974457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009058683909754883",
+          "start": 0,
+          "username": "sjfdkgtdih14636"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029170269512974457",
+    "in_reply_to_user_id": "2009058683909754883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029169867560239143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjfdkgtdih14636 他总是贬低我很多很多，我没办法了我真的没办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029164327786430718",
+        "created_at": "2026-03-04T12:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029170269512974457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009058683909754883",
+              "start": 0,
+              "username": "sjfdkgtdih14636"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029170269512974457",
+        "in_reply_to_user_id": "2009058683909754883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029169867560239143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjfdkgtdih14636 他总是贬低我很多很多，我没办法了我真的没办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009058683909754883",
+        "conversation_id": "2029164327786430718",
+        "created_at": "2026-03-04T12:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029169867560239143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029169867560239143",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029165836385267855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 裴裴一点儿错没有，管这么宽他咋不上天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 168,
+          "like_count": 522,
+          "listed_count": 10,
+          "media_count": 83,
+          "tweet_count": 1322
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T00:25:10.000Z",
+        "description": "",
+        "id": "2009058683909754883",
+        "location": "长沙",
+        "name": "得鹿梦雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011923334787973124/hKIjTEy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 103
+        },
+        "username": "sjfdkgtdih14636",
+        "verified": false
+      }
+    ]
+  }
+}

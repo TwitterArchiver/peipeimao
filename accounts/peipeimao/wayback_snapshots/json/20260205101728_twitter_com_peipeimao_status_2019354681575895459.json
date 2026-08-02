@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2019319386558066807",
+    "created_at": "2026-02-05T10:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019354681575895459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1095000150332760064",
+          "start": 0,
+          "username": "leeme91788345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019354681575895459",
+    "in_reply_to_user_id": "1095000150332760064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019330917320557039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leeme91788345 我是的 我会害死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2019319386558066807",
+        "created_at": "2026-02-05T10:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019354681575895459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1095000150332760064",
+              "start": 0,
+              "username": "leeme91788345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019354681575895459",
+        "in_reply_to_user_id": "1095000150332760064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019330917320557039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leeme91788345 我是的 我会害死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095000150332760064",
+        "conversation_id": "2019319386558066807",
+        "created_at": "2026-02-05T08:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019330917320557039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019330917320557039",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019319386558066807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 跟个鬼一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 141,
+          "like_count": 342,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 674
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-11T16:42:34.000Z",
+        "description": "",
+        "id": "1095000150332760064",
+        "name": "leeme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1095000358491811840/At0Ganzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 157,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 537
+        },
+        "username": "leeme91788345",
+        "verified": false
+      }
+    ]
+  }
+}

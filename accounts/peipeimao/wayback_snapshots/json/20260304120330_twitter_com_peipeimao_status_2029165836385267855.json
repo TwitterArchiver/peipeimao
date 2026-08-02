@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2029164327786430718",
+    "created_at": "2026-03-04T12:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029165836385267855"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029165836385267855",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029164327786430718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在朋友圈发的玛奇玛照片被他贬低成一点也不像，我把他删了有什么错吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029164327786430718",
+        "created_at": "2026-03-04T12:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029165836385267855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029165836385267855",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029164327786430718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在朋友圈发的玛奇玛照片被他贬低成一点也不像，我把他删了有什么错吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2029164327786430718",
+        "created_at": "2026-03-04T11:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029164327786430718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/peipeimao/status/2029163300270084463",
+              "start": 86,
+              "url": "https://t.co/0IQNpihh8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029164327786430718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029163300270084463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为持续一年多的骚扰，打压，贬低，我的精神状态真的差的极点，甚至没有办法生活。他贬低我的时候我就说了不要再加我，但还是一直骚扰威胁，本来身上的疤都在慢慢长好，为什么要逼我 https://t.co/0IQNpihh8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 168,
+          "like_count": 522,
+          "listed_count": 10,
+          "media_count": 83,
+          "tweet_count": 1319
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

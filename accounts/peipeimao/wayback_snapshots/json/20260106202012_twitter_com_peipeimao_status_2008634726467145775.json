@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008491912244957583",
+    "created_at": "2026-01-06T20:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T21:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008634726467145775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008634726467145775",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008491912244957583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoko8964 我这种地雷门槛妹一自杀门哥也吓晕了😭我一直在纹悲伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008491912244957583",
+        "created_at": "2026-01-06T20:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008634726467145775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008634726467145775",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008491912244957583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoko8964 我这种地雷门槛妹一自杀门哥也吓晕了😭我一直在纹悲伤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "2008491912244957583",
+        "created_at": "2026-01-06T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008491912244957583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008491912244957583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "门槛妹生意不好做啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "无论转生多少次都要把我找到好吗",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2007192256487534806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 112,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 147
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realeco_771",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realeco_771",
+                "start": 0,
+                "url": "https://t.co/goQGuK3lL5"
+              }
+            ]
+          }
+        },
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "2003829962563060093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245246054477825/PhjVdLi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9721,
+          "following_count": 295,
+          "like_count": 28212,
+          "listed_count": 11,
+          "media_count": 1664,
+          "tweet_count": 18105
+        },
+        "url": "https://t.co/goQGuK3lL5",
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

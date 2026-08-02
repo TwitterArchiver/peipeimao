@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2010992546697425147",
+    "created_at": "2026-01-13T08:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T09:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010992546697425147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kangelbot/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/kangelbot/status/2010689033702142402",
+          "start": 20,
+          "url": "https://t.co/M5pNwAzIdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010992546697425147",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010689033702142402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Lets go,just gooooo https://t.co/M5pNwAzIdo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 177,
+        "media_key": "3_2010689031172993024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dnBVDXMAAdg6S.png",
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2010992546697425147",
+        "created_at": "2026-01-13T08:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010992546697425147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kangelbot/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kangelbot/status/2010689033702142402",
+              "start": 20,
+              "url": "https://t.co/M5pNwAzIdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010992546697425147",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010689033702142402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Lets go,just gooooo https://t.co/M5pNwAzIdo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010689031172993024"
+          ]
+        },
+        "author_id": "1561228597586759680",
+        "conversation_id": "2010689033702142402",
+        "created_at": "2026-01-12T12:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010689033702142402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDfnpNjE6L",
+              "end": 236,
+              "expanded_url": "https://x.com/kangelbot/status/2010689033702142402/photo/1",
+              "media_key": "3_2010689031172993024",
+              "start": 213,
+              "url": "https://t.co/WDfnpNjE6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010689033702142402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 7083,
+          "like_count": 710,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "I’m in a really good mood today!!! Head empty no worries!!!! I’m gonna stream heaps for you guys!!!!! I wanna have a chat with all of you!!!!!!!!! Anyone up for a spontaneous stream??????!?!?! LET’S GO!!!!!!!!!!! https://t.co/WDfnpNjE6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 116,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 269
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T05:48:18.000Z",
+        "description": "#KANGEL : It's all over if you get bored of me… And I don't want to die yet! // posts every 3 hours , credit to @GimmickBots for coding",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "KANGEL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "GimmickBots"
+              }
+            ]
+          }
+        },
+        "id": "1561228597586759680",
+        "location": "fanart in likes",
+        "name": "kangel bot ⚢",
+        "pinned_tweet_id": "1609237233982402560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794375183207477248/nshMmfCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26636,
+          "following_count": 2,
+          "like_count": 284,
+          "listed_count": 33,
+          "media_count": 1154,
+          "tweet_count": 11396
+        },
+        "username": "kangelbot",
+        "verified": false
+      }
+    ]
+  }
+}

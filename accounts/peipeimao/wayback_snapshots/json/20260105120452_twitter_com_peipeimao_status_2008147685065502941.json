@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2008105147717816652",
+    "created_at": "2026-01-05T12:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T13:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008147685065502941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805215189534687233",
+          "start": 0,
+          "username": "g0FijzdhBt57425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008147685065502941",
+    "in_reply_to_user_id": "1805215189534687233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008138292303417523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g0FijzdhBt57425 牵牵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2008105147717816652",
+        "created_at": "2026-01-05T12:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008147685065502941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805215189534687233",
+              "start": 0,
+              "username": "g0FijzdhBt57425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008147685065502941",
+        "in_reply_to_user_id": "1805215189534687233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008138292303417523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g0FijzdhBt57425 牵牵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805215189534687233",
+        "conversation_id": "2008105147717816652",
+        "created_at": "2026-01-05T11:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008138292303417523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008138292303417523",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008105147717816652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 我要牵🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "无论转生多少次都要把我找到好吗",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2007192256487534806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007624473277804545/qpR4K-hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 106,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 122
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T12:23:47.000Z",
+        "description": "",
+        "id": "1805215189534687233",
+        "name": ".\u0014",
+        "pinned_tweet_id": "1989389268037628370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805215327137263616/0rVMo0VA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 152,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 721
+        },
+        "username": "g0FijzdhBt57425",
+        "verified": false
+      }
+    ]
+  }
+}

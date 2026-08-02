@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012625531968081920"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2012625545314320403",
+    "created_at": "2026-01-17T20:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T21:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012625545314320403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4cuug7gdDi",
+          "end": 30,
+          "expanded_url": "https://x.com/peipeimao/status/2012625545314320403/photo/1",
+          "media_key": "3_2012625531968081920",
+          "start": 7,
+          "url": "https://t.co/4cuug7gdDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012625545314320403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡醒一转头： https://t.co/4cuug7gdDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2012625531968081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-5IQgrW0AA8F0B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012625531968081920"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2012625545314320403",
+        "created_at": "2026-01-17T20:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T21:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012625545314320403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cuug7gdDi",
+              "end": 30,
+              "expanded_url": "https://x.com/peipeimao/status/2012625545314320403/photo/1",
+              "media_key": "3_2012625531968081920",
+              "start": 7,
+              "url": "https://t.co/4cuug7gdDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012625545314320403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒一转头： https://t.co/4cuug7gdDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 133,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 379
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

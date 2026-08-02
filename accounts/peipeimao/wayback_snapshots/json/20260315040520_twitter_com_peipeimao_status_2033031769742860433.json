@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032735654887698438"
+      ],
+      "media_source_tweet_id": [
+        "2032735659954515993"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2033031769742860433",
+    "created_at": "2026-03-15T04:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T05:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033031769742860433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "963445220787437568",
+          "start": 3,
+          "username": "raveltokyo"
+        },
+        {
+          "end": 47,
+          "id": "3232255189",
+          "start": 33,
+          "username": "cosmicdroplet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQoDUk3kt7",
+          "end": 71,
+          "expanded_url": "https://x.com/raveltokyo/status/2032735659954515993/photo/1",
+          "media_key": "3_2032735654887698438",
+          "start": 48,
+          "url": "https://t.co/gQoDUk3kt7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033031769742860433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 559
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032735659954515993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raveltokyo: オーバードーズにご注意ください。\n@cosmicdroplet https://t.co/gQoDUk3kt7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032735654887698438",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW6TufaMAYIz0d.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032735654887698438"
+          ],
+          "media_source_tweet_id": [
+            "2032735659954515993"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2033031769742860433",
+        "created_at": "2026-03-15T04:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033031769742860433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "963445220787437568",
+              "start": 3,
+              "username": "raveltokyo"
+            },
+            {
+              "end": 47,
+              "id": "3232255189",
+              "start": 33,
+              "username": "cosmicdroplet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQoDUk3kt7",
+              "end": 71,
+              "expanded_url": "https://x.com/raveltokyo/status/2032735659954515993/photo/1",
+              "media_key": "3_2032735654887698438",
+              "start": 48,
+              "url": "https://t.co/gQoDUk3kt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033031769742860433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 559
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032735659954515993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raveltokyo: オーバードーズにご注意ください。\n@cosmicdroplet https://t.co/gQoDUk3kt7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032735654887698438"
+          ]
+        },
+        "author_id": "963445220787437568",
+        "conversation_id": "2032735659954515993",
+        "created_at": "2026-03-14T08:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032735659954515993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "3232255189",
+              "start": 17,
+              "username": "cosmicdroplet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQoDUk3kt7",
+              "end": 55,
+              "expanded_url": "https://x.com/raveltokyo/status/2032735659954515993/photo/1",
+              "media_key": "3_2032735654887698438",
+              "start": 32,
+              "url": "https://t.co/gQoDUk3kt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032735659954515993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 749,
+          "impression_count": 159766,
+          "like_count": 4193,
+          "quote_count": 344,
+          "reply_count": 20,
+          "retweet_count": 559
+        },
+        "reply_settings": "everyone",
+        "text": "オーバードーズにご注意ください。\n@cosmicdroplet https://t.co/gQoDUk3kt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314线下只接纯绿",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 174,
+          "like_count": 559,
+          "listed_count": 11,
+          "media_count": 90,
+          "tweet_count": 1426
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-13T16:10:15.000Z",
+        "description": "オリジナルのアパレルやアクセサリーを中心に、個性強めなクリエイターズブランドを取り扱うショップです。ラフォーレ原宿B1.5F店で営業中。通販の発送は現在3〜7営業日🛒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ravel.tokyo",
+                "end": 23,
+                "expanded_url": "https://www.ravel.tokyo",
+                "start": 0,
+                "url": "https://t.co/BSSn1rmH0N"
+              }
+            ]
+          }
+        },
+        "id": "963445220787437568",
+        "location": "ラフォーレ原宿B1.5F",
+        "name": "RAVEL",
+        "pinned_tweet_id": "2031681698933739994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992752224345378816/8PF2LkUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55621,
+          "following_count": 136,
+          "like_count": 49350,
+          "listed_count": 390,
+          "media_count": 11121,
+          "tweet_count": 20292
+        },
+        "url": "https://t.co/BSSn1rmH0N",
+        "username": "raveltokyo",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-01T04:33:21.000Z",
+        "description": "こーばすと読みます。理系出身(UT 理科I類→工学部→新領域修士)、「科学雑貨Scientia」の屋号で制作・販売を行っています。その他のSNS、通販サイトのリンクはこちら↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/scientia",
+                "end": 23,
+                "expanded_url": "https://lit.link/scientia",
+                "start": 0,
+                "url": "https://t.co/NP7KzEFpuK"
+              }
+            ]
+          }
+        },
+        "id": "3232255189",
+        "location": "5p軌道",
+        "name": "corvus⌬科学雑貨Scientia",
+        "pinned_tweet_id": "1902985200864555299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429769330774843400/TGvNVEQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15136,
+          "following_count": 5089,
+          "like_count": 75027,
+          "listed_count": 210,
+          "media_count": 3561,
+          "tweet_count": 31285
+        },
+        "url": "https://t.co/NP7KzEFpuK",
+        "username": "cosmicdroplet",
+        "verified": true
+      }
+    ]
+  }
+}

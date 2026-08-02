@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2023805259836203063",
+    "created_at": "2026-02-19T16:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024528580412051829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1780465877558714368",
+          "start": 0,
+          "username": "R_XLuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528580412051829",
+    "in_reply_to_user_id": "1780465877558714368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024523342498451492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R_XLuo 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2023805259836203063",
+        "created_at": "2026-02-19T16:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024528580412051829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1780465877558714368",
+              "start": 0,
+              "username": "R_XLuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528580412051829",
+        "in_reply_to_user_id": "1780465877558714368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024523342498451492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R_XLuo 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780465877558714368",
+        "conversation_id": "2023805259836203063",
+        "created_at": "2026-02-19T16:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024523342498451492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024523342498451492",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023805259836203063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 想拿来当头像的那种，觉得我也能这么美嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 165,
+          "like_count": 493,
+          "listed_count": 8,
+          "media_count": 71,
+          "tweet_count": 1140
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T05:19:07.000Z",
+        "description": "",
+        "id": "1780465877558714368",
+        "name": "xLuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014484379322744832/o1X63Tp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 1037,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 135
+        },
+        "username": "R_XLuo",
+        "verified": false
+      }
+    ]
+  }
+}

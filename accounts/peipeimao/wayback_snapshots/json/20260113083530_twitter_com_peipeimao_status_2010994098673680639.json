@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2010994098673680639",
+    "created_at": "2026-01-13T08:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T09:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010994098673680639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010994098673680639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得超天酱真的很厉害啊，她一个人吃药还可以玩转互联网，OMG，神。我吃完就躺着，吃什么都躺下自己玩去了，把什么带给大家能得到流量呢我在烧烤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2010994098673680639",
+        "created_at": "2026-01-13T08:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010994098673680639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010994098673680639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得超天酱真的很厉害啊，她一个人吃药还可以玩转互联网，OMG，神。我吃完就躺着，吃什么都躺下自己玩去了，把什么带给大家能得到流量呢我在烧烤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 117,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 270
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

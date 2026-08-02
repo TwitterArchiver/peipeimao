@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2067013264018681980",
+    "created_at": "2026-06-16T23:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067022361728266522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2062129215219331072",
+          "start": 0,
+          "username": "8964_K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067022361728266522",
+    "in_reply_to_user_id": "2062129215219331072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067013264018681980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_K 这个小泠也太好我是权威林黛玉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067013256695427072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-Bmv9asAA9hd_.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2067013264018681980",
+        "created_at": "2026-06-16T23:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067022361728266522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2062129215219331072",
+              "start": 0,
+              "username": "8964_K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067022361728266522",
+        "in_reply_to_user_id": "2062129215219331072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067013264018681980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_K 这个小泠也太好我是权威林黛玉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067013256695427072"
+          ]
+        },
+        "author_id": "2062129215219331072",
+        "conversation_id": "2067013264018681980",
+        "created_at": "2026-06-16T22:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067013264018681980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007104134466736129",
+              "start": 4,
+              "username": "peipeimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DalgVVrU9e",
+              "end": 53,
+              "expanded_url": "https://x.com/8964_K/status/2067013264018681980/photo/1",
+              "media_key": "3_2067013256695427072",
+              "start": 30,
+              "url": "https://t.co/DalgVVrU9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067013264018681980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃给@peipeimao 充值了蓝勾，大家都去关注她呀 https://t.co/DalgVVrU9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 167,
+          "like_count": 684,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 1895
+        },
+        "username": "peipeimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T11:08:48.000Z",
+        "description": "只是旅行者罢了\n把我说过的一切都当做梦呓吧\n无性别必\n#odtwt* #shtwt \nTG:HsHnFR\n我始终如一\n永远纪念\n@Inks_chain\n @Chain_Inks@8964_R \n@8964_U@8964_I@8964_O@8964_P@8964_L\n永远深爱@peipeimao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "odtwt"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "peipeimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rinphony",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rinphony",
+                "start": 0,
+                "url": "https://t.co/c5H9POwWy2"
+              }
+            ]
+          }
+        },
+        "id": "2062129215219331072",
+        "location": "她的怀里",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2066441057794240652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066951164999208960/V3OL3QUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 75,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/c5H9POwWy2",
+        "username": "8964_K",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2019483724484866548",
+    "created_at": "2026-02-05T18:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019483724484866548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhe_kun67361/s…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/zhe_kun67361/status/2019085678412259439",
+          "start": 23,
+          "url": "https://t.co/LXcvfcekCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019483724484866548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019085678412259439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你是个不懂尊重别人痛苦的人自私自利的巨婴 https://t.co/LXcvfcekCW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2019483724484866548",
+        "created_at": "2026-02-05T18:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019483724484866548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhe_kun67361/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/zhe_kun67361/status/2019085678412259439",
+              "start": 23,
+              "url": "https://t.co/LXcvfcekCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019483724484866548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019085678412259439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你是个不懂尊重别人痛苦的人自私自利的巨婴 https://t.co/LXcvfcekCW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916143291315458048",
+        "conversation_id": "2018713399660519837",
+        "created_at": "2026-02-04T16:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019085678412259439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019085678412259439",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 997,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018713399660519837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 我不能理解这种行为，可能因为我没有痛苦到那种地步，但是如果非要这样才能发泄痛苦的话，那也无话可说毕竟身体是ta自己的。但是搞不懂为什么有的人喜欢自残，然后搞那种血图发在网上波同情？看到真的很坏心情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 143,
+          "like_count": 347,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 683
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T14:52:24.000Z",
+        "description": "立志成为cncs的一个有实力的导狗",
+        "id": "1916143291315458048",
+        "name": "忍者坤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916143423297622016/VciRTgRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 67
+        },
+        "username": "zhe_kun67361",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007106708544667648"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007106725980278848",
+    "created_at": "2026-01-02T15:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007106725980278848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GR9ZRTm0Hi",
+          "end": 45,
+          "expanded_url": "https://x.com/peipeimao/status/2007106725980278848/photo/1",
+          "media_key": "3_2007106708544667648",
+          "start": 22,
+          "url": "https://t.co/GR9ZRTm0Hi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007106725980278848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@fusdejiii，我被封啦 哈哈 哈哈 https://t.co/GR9ZRTm0Hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007106708544667648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qs6tUbwAA0L6i.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007106708544667648"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007106725980278848",
+        "created_at": "2026-01-02T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007106725980278848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GR9ZRTm0Hi",
+              "end": 45,
+              "expanded_url": "https://x.com/peipeimao/status/2007106725980278848/photo/1",
+              "media_key": "3_2007106708544667648",
+              "start": 22,
+              "url": "https://t.co/GR9ZRTm0Hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007106725980278848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@fusdejiii，我被封啦 哈哈 哈哈 https://t.co/GR9ZRTm0Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "裴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

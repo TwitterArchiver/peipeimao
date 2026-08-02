@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2038441384877957159",
+    "created_at": "2026-03-30T18:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038684515355554178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038684515355554178",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038480649032524101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 我也喜欢你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2038441384877957159",
+        "created_at": "2026-03-30T18:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038684515355554178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038684515355554178",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038480649032524101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 我也喜欢你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917804398824022016",
+        "conversation_id": "2038441384877957159",
+        "created_at": "2026-03-30T04:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038480649032524101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038480649032524101",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038441384877957159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 姐姐我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "我只想回神秘数字",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037026254185250816/dxUQ0aRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4536,
+          "following_count": 172,
+          "like_count": 595,
+          "listed_count": 11,
+          "media_count": 95,
+          "tweet_count": 1493
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029979417678860288/Ii2ARh4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 93,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 598
+        },
+        "username": "lne_li19885",
+        "verified": false
+      }
+    ]
+  }
+}

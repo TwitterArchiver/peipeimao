@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2019777895628230844",
+    "created_at": "2026-02-06T14:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019777895628230844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "裴裴小猫meoww’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1RDGl…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1RDGlAyPvNjJL",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2019777897771524096/-EYXdoE2?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2019777897771524096/-EYXdoE2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 你想要聊些森莫",
+          "unwound_url": "https://twitter.com/i/spaces/1RDGlAyPvNjJL/peek",
+          "url": "https://t.co/ALm9EmnHSr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019777895628230844",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ALm9EmnHSr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2019777895628230844",
+        "created_at": "2026-02-06T14:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019777895628230844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "裴裴小猫meoww’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RDGl…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1RDGlAyPvNjJL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2019777897771524096/-EYXdoE2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019777897771524096/-EYXdoE2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 你想要聊些森莫",
+              "unwound_url": "https://twitter.com/i/spaces/1RDGlAyPvNjJL/peek",
+              "url": "https://t.co/ALm9EmnHSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019777895628230844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ALm9EmnHSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 145,
+          "like_count": 375,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 719
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

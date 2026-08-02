@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2066209520364441822",
+    "created_at": "2026-06-14T17:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066209520364441822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jing1234560/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/jing1234560/status/2030262711075098692",
+          "start": 9,
+          "url": "https://t.co/owokVfqDdF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066209520364441822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030262711075098692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怜爱痛痛一下好吗 https://t.co/owokVfqDdF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2030262703420538880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzxLAYbAAAJL-e.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2066209520364441822",
+        "created_at": "2026-06-14T17:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066209520364441822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jing1234560/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jing1234560/status/2030262711075098692",
+              "start": 9,
+              "url": "https://t.co/owokVfqDdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066209520364441822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030262711075098692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怜爱痛痛一下好吗 https://t.co/owokVfqDdF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030262703420538880"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "2030262711075098692",
+        "created_at": "2026-03-07T12:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030262711075098692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozl0uXbjmZ",
+              "end": 23,
+              "expanded_url": "https://x.com/jing1234560/status/2030262711075098692/photo/1",
+              "media_key": "3_2030262703420538880",
+              "start": 0,
+              "url": "https://t.co/ozl0uXbjmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030262711075098692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 68884,
+          "like_count": 4852,
+          "quote_count": 7,
+          "reply_count": 47,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ozl0uXbjmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 167,
+          "like_count": 658,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 1870
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2030262711075098692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6238,
+          "following_count": 121,
+          "like_count": 10647,
+          "listed_count": 8,
+          "media_count": 294,
+          "tweet_count": 5645
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

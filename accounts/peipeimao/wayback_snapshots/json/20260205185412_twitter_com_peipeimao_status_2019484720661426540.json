@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2019464693258043559",
+    "created_at": "2026-02-05T18:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019484720661426540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019484720661426540",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019464693258043559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@kiwi_03096 为什么我一直在承受这么多莫名其妙的恶意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2019464693258043559",
+        "created_at": "2026-02-05T18:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019484720661426540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019484720661426540",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019464693258043559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@kiwi_03096 为什么我一直在承受这么多莫名其妙的恶意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774410859491799041",
+        "conversation_id": "2019464693258043559",
+        "created_at": "2026-02-05T17:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019464693258043559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019464693258043559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我的痛苦不能被任何人否定，我没想让别人理解我为什么只有我一直在承受这么多莫名其妙的恶意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 143,
+          "like_count": 348,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 696
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "谢谢你们喜欢我我很开心 多给我发点评论好吗 20仅好友 52可以加好友陪你聊天 直接赞赏码备注v或者q就行我来加你",
+        "id": "1774410859491799041",
+        "location": "天堂",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "2019420300488982913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007447161626341376/LKnNTTGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4978,
+          "following_count": 238,
+          "like_count": 2780,
+          "listed_count": 18,
+          "media_count": 176,
+          "tweet_count": 1350
+        },
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

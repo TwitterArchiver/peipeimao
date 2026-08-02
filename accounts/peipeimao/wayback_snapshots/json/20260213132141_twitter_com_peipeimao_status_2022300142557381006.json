@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022300142557381006",
+    "created_at": "2026-02-13T13:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022300142557381006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peipeimao/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/peipeimao/status/2018348600087232977",
+          "start": 16,
+          "url": "https://t.co/c8DwGdnFsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022300142557381006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018348600087232977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "果然还是最喜欢这个我们看这个吧 https://t.co/c8DwGdnFsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018348583389704192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKdV8nbMAAd0yj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018348583393853440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKdV8oagAAyHsL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022300142557381006",
+        "created_at": "2026-02-13T13:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022300142557381006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peipeimao/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/peipeimao/status/2018348600087232977",
+              "start": 16,
+              "url": "https://t.co/c8DwGdnFsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022300142557381006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018348600087232977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然还是最喜欢这个我们看这个吧 https://t.co/c8DwGdnFsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018348583389704192",
+            "3_2018348583393853440"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018348600087232977",
+        "created_at": "2026-02-02T15:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018348600087232977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ツインテールの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlbFdPw9TS",
+              "end": 33,
+              "expanded_url": "https://x.com/peipeimao/status/2018348600087232977/photo/1",
+              "media_key": "3_2018348583389704192",
+              "start": 10,
+              "url": "https://t.co/tlbFdPw9TS"
+            },
+            {
+              "display_url": "pic.x.com/tlbFdPw9TS",
+              "end": 33,
+              "expanded_url": "https://x.com/peipeimao/status/2018348600087232977/photo/1",
+              "media_key": "3_2018348583393853440",
+              "start": 10,
+              "url": "https://t.co/tlbFdPw9TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018348600087232977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5391,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#ツインテールの日 https://t.co/tlbFdPw9TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 158,
+          "like_count": 439,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 969
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

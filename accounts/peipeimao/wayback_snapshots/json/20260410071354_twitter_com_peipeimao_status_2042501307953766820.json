@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2042501307953766820",
+    "created_at": "2026-04-10T07:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042501307953766820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wujichem/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wujichem/status/2042487311599018415",
+          "start": 10,
+          "url": "https://t.co/Vyt76iTgHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501307953766820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042487311599018415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要Ipph黑幕我 https://t.co/Vyt76iTgHv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2042501307953766820",
+        "created_at": "2026-04-10T07:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042501307953766820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wujichem/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wujichem/status/2042487311599018415",
+              "start": 10,
+              "url": "https://t.co/Vyt76iTgHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501307953766820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042487311599018415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要Ipph黑幕我 https://t.co/Vyt76iTgHv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2042487311599018415",
+        "created_at": "2026-04-10T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042487311599018415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042487311599018415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 333,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这里是無極（葉洪文）的回归账户🥺\n\n帮我转发+关注抽10个人送 \n\n3🌵/ 5IPPH / 2🍄 三选一\n\n截止到4月13日晚上22:00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好吗",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4563,
+          "following_count": 178,
+          "like_count": 616,
+          "listed_count": 10,
+          "media_count": 104,
+          "tweet_count": 1656
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042487311599018415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 32,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2021572023395213686",
+    "created_at": "2026-02-11T13:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021572023395213686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lajitongyoulaj…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/lajitongyoulaji/status/2021549975180579067",
+          "start": 35,
+          "url": "https://t.co/uelxX9hGVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021572023395213686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021549975180579067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怂恿了谁开盒……全程都是我一个人在发泄情绪，你不喜欢可以B我无所谓 https://t.co/uelxX9hGVz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2021572023395213686",
+        "created_at": "2026-02-11T13:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021572023395213686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lajitongyoulaj…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/lajitongyoulaji/status/2021549975180579067",
+              "start": 35,
+              "url": "https://t.co/uelxX9hGVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021572023395213686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021549975180579067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怂恿了谁开盒……全程都是我一个人在发泄情绪，你不喜欢可以B我无所谓 https://t.co/uelxX9hGVz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252908934500954113",
+        "conversation_id": "2021513369749200954",
+        "created_at": "2026-02-11T11:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021549975180579067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021549975180579067",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021513612872016135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 对，我之前觉得你很神秘也有点喜欢你但我接受不了你怂恿其他人帮你一起开别人盒 他们的精神状态本来就不好 我接受不了你因为自己的情绪崩溃引导其他人一起做错事让他们陷得更深 而且 你说自己手抖P不了图但字倒是可以打很多… 我本来不想继续回复的但我的脑子一直在想这件事…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 156,
+          "like_count": 409,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 842
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T10:35:53.000Z",
+        "description": "想留下美好的回忆",
+        "id": "1252908934500954113",
+        "name": "垃圾桶里有垃圾",
+        "pinned_tweet_id": "1656759774128533510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020611612441292800/y_h2XZSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 85
+        },
+        "username": "lajitongyoulaji",
+        "verified": false
+      }
+    ]
+  }
+}

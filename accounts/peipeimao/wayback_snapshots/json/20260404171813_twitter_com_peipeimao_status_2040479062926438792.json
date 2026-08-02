@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2040472792496562202",
+    "created_at": "2026-04-04T17:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040479062926438792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976860079849934848",
+          "start": 0,
+          "username": "HisaSsla51279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040479062926438792",
+    "in_reply_to_user_id": "1976860079849934848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040474608122597499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HisaSsla51279 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2040472792496562202",
+        "created_at": "2026-04-04T17:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040479062926438792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976860079849934848",
+              "start": 0,
+              "username": "HisaSsla51279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040479062926438792",
+        "in_reply_to_user_id": "1976860079849934848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040474608122597499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HisaSsla51279 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976860079849934848",
+        "conversation_id": "2040472792496562202",
+        "created_at": "2026-04-04T17:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040474608122597499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040474608122597499",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040472792496562202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 有點old school的壓光拍法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2039441350249402402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038751229426413568/ou37i-jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 171,
+          "like_count": 611,
+          "listed_count": 11,
+          "media_count": 99,
+          "tweet_count": 1582
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T03:59:16.000Z",
+        "description": "\"the past is like another planet\"",
+        "id": "1976860079849934848",
+        "location": "nope",
+        "name": "Edward Kassner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986914942168276998/o_XT8iNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 111,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 857
+        },
+        "username": "HisaSsla51279",
+        "verified": false
+      }
+    ]
+  }
+}

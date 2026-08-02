@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2017298041380999370",
+    "created_at": "2026-01-31T01:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T02:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017412525038702704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017412525038702704",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017298041380999370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 少量吃隔着天不会成瘾的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2017298041380999370",
+        "created_at": "2026-01-31T01:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017412525038702704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017412525038702704",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017298041380999370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 少量吃隔着天不会成瘾的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2017298041380999370",
+        "created_at": "2026-01-30T18:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017298041380999370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017298041380999370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在考虑年后要不要搞点pr吃吃。。毕竟也是治焦虑的，说不定吃完我变得更加牛逼了。。。但是好像很难戒哎……好纠结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2013410664056832014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 140,
+          "like_count": 277,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 494
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "我就是那位看着你的佛🔪\n- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩-\n高度活跃互联网！想交朋友！互fo捏(^o^)/\n（我是低齡憂鬱糖人大傻福，實在抱歉！）\n（如果看到我连续发了很多条帖子请立马叫我去学习！）\n很多不良嗜好 -12现役初中生",
+        "id": "1956544219751063552",
+        "location": "你看看你身后呢",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2012134116444295316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011083699753000960/YuM05dcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 106,
+          "like_count": 3159,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 584
+        },
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

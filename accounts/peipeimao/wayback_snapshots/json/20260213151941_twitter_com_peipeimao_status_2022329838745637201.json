@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022329838745637201",
+    "created_at": "2026-02-13T15:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022329838745637201"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022329838745637201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最讨厌节日，所以我想消失这也是错吗？我最讨厌被打扰所以想自我毁灭这不对吗？2026死几回了都没死成不知道的以为我在学孩子王沐雨这些前辈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022329838745637201",
+        "created_at": "2026-02-13T15:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022329838745637201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022329838745637201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最讨厌节日，所以我想消失这也是错吗？我最讨厌被打扰所以想自我毁灭这不对吗？2026死几回了都没死成不知道的以为我在学孩子王沐雨这些前辈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "只回口令",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 159,
+          "like_count": 442,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 983
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

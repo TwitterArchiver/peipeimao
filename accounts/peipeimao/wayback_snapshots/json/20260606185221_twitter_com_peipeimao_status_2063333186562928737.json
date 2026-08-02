@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2063283405396095481",
+    "created_at": "2026-06-06T18:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063333186562928737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2012152028068466688",
+          "start": 0,
+          "username": "Qingyang_0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063333186562928737",
+    "in_reply_to_user_id": "2012152028068466688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063283405396095481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingyang_0926 麦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2063283405396095481",
+        "created_at": "2026-06-06T18:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063333186562928737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2012152028068466688",
+              "start": 0,
+              "username": "Qingyang_0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063333186562928737",
+        "in_reply_to_user_id": "2012152028068466688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063283405396095481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingyang_0926 麦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012152028068466688",
+        "conversation_id": "2063283405396095481",
+        "created_at": "2026-06-06T15:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063283405396095481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "花農’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nJOL…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nJOLLrQQNExR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2063283407937851392/K_WRdX2R?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063283407937851392/K_WRdX2R?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 花農’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1nJOLLrQQNExR/peek",
+              "url": "https://t.co/e1RsYOqpf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063283405396095481",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e1RsYOqpf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/1314电子女友",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4664,
+          "following_count": 168,
+          "like_count": 635,
+          "listed_count": 13,
+          "media_count": 100,
+          "tweet_count": 1833
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T13:17:01.000Z",
+        "description": "［沒有武力就沒有自由］吳越共和國戒嚴司令部總司令【✡️👁️】",
+        "id": "2012152028068466688",
+        "location": "上海總統府",
+        "name": "花農",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054197192391528448/_6ERDgtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 279,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "username": "Qingyang_0926",
+        "verified": false
+      }
+    ]
+  }
+}

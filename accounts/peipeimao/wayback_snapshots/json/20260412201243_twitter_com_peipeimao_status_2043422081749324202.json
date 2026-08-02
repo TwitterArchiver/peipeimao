@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2043083671872377125",
+    "created_at": "2026-04-12T20:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T21:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043422081749324202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1770744191900950529",
+          "start": 0,
+          "username": "fDslDUYj8l50900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043422081749324202",
+    "in_reply_to_user_id": "1770744191900950529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043421881022263411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fDslDUYj8l50900 因为他们的母亲是妓女，他们恋母"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2043083671872377125",
+        "created_at": "2026-04-12T20:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043422081749324202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1770744191900950529",
+              "start": 0,
+              "username": "fDslDUYj8l50900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043422081749324202",
+        "in_reply_to_user_id": "1770744191900950529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043421881022263411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fDslDUYj8l50900 因为他们的母亲是妓女，他们恋母"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770744191900950529",
+        "conversation_id": "2043083671872377125",
+        "created_at": "2026-04-12T20:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043421881022263411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043421881022263411",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043083671872377125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 他们为什么要拿妓女这个词骂人呀……完全不合适诶，第一是一个靠劳动赚钱的职业不应该被污名化，第二是裴裴明明是处女的说……\n\n裴裴的脸确实好看，但是比起你的脸，我如果能有裴裴那样善良美好的心灵，才是更会让我笑哭的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "所以请求所有人保持爱的能力",
+        "id": "2007104134466736129",
+        "location": "🚪88好友位/158陪聊/188解锁线下接cos委托",
+        "name": "裴裴小颦好",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043207181223481344/PMPoY0RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4596,
+          "following_count": 173,
+          "like_count": 611,
+          "listed_count": 11,
+          "media_count": 106,
+          "tweet_count": 1706
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T09:28:15.000Z",
+        "description": "",
+        "id": "1770744191900950529",
+        "name": "江绫",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 106,
+          "like_count": 1012,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1006
+        },
+        "username": "fDslDUYj8l50900",
+        "verified": false
+      }
+    ]
+  }
+}

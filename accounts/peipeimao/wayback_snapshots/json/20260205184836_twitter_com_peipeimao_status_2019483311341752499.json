@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2018713399660519837",
+    "created_at": "2026-02-05T18:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019483311341752499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        },
+        {
+          "end": 24,
+          "id": "1641777963015471104",
+          "start": 14,
+          "username": "HuangRiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019483311341752499",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018713399660519837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF @HuangRiii 已经往脖子来好几道还没死咋办啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018713399660519837",
+        "created_at": "2026-02-05T18:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019483311341752499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            },
+            {
+              "end": 24,
+              "id": "1641777963015471104",
+              "start": 14,
+              "username": "HuangRiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019483311341752499",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018713399660519837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF @HuangRiii 已经往脖子来好几道还没死咋办啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2018713399660519837",
+        "created_at": "2026-02-03T15:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018713399660519837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018713399660519837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 39555,
+          "like_count": 1446,
+          "quote_count": 14,
+          "reply_count": 47,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "人家身上满是自残的伤害就一定要来句怎么不往脖子上来一道，一些人明明都是做了一段很长很痛苦的经历才决定明天可以继续活着。遮不住伤的妹子，也可以展示自己的颜值。莫名其妙的恶意什么时候变成一种幽默了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 143,
+          "like_count": 347,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 682
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 505,
+          "like_count": 6448,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2015
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T12:22:43.000Z",
+        "description": "碎碎念📝/想和小女孩贴贴互fo💗/喜欢你们✨/可以私信来找我聊天💬/嗲比妹🎤/喜欢我请给我打钱🤲/不是黄推不要来骚扰我‼️/不涉政🚫/分享日常🌍/现低能量中⛔️/友宝女🔔/二次其他啥都看点🤟/燕云跑路中💢",
+        "id": "1641777963015471104",
+        "location": "ᗜ ˰ ᗜ 由弥弥の幻想",
+        "name": "はなさき由弥弥ᗜ ˰ ᗜ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011029159720472576/6s4wCKZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 50,
+          "like_count": 4976,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 423
+        },
+        "username": "HuangRiii",
+        "verified": false
+      }
+    ]
+  }
+}

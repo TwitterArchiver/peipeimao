@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2022281808432480418",
+    "created_at": "2026-02-13T12:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022281808432480418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022281808432480418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "任何社交媒体都没热度没归属感，回家了我也该消失了。因为我家很破烂，常年没有人住，灯很暗很暗，完全贫民窟拍出来更惨了。沙发是老式红色木头，桌子更是你们完全没见过的成分。回家过年只是为了走亲戚，亲戚家亮亮的，有好吃的，还有强奸我的表哥。我太累了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2022281808432480418",
+        "created_at": "2026-02-13T12:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022281808432480418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022281808432480418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何社交媒体都没热度没归属感，回家了我也该消失了。因为我家很破烂，常年没有人住，灯很暗很暗，完全贫民窟拍出来更惨了。沙发是老式红色木头，桌子更是你们完全没见过的成分。回家过年只是为了走亲戚，亲戚家亮亮的，有好吃的，还有强奸我的表哥。我太累了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021253605106515969/c3SWq9nW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 158,
+          "like_count": 438,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 958
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

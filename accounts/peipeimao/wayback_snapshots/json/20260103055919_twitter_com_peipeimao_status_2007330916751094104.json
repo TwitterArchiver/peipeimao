@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2007104134466736129",
+    "conversation_id": "2007309519223959714",
+    "created_at": "2026-01-03T05:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007330916751094104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291122811704971264",
+          "start": 0,
+          "username": "lingmengfin"
+        },
+        {
+          "end": 29,
+          "id": "1292133963452968961",
+          "start": 13,
+          "username": "3sVs0g9n97TyP66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007330916751094104",
+    "in_reply_to_user_id": "1291122811704971264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007330589926682719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingmengfin @3sVs0g9n97TyP66 没骂过？你继续你继续吧，我精分我自杀你要比谁更权威吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2007309519223959714",
+        "created_at": "2026-01-03T05:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007330916751094104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291122811704971264",
+              "start": 0,
+              "username": "lingmengfin"
+            },
+            {
+              "end": 29,
+              "id": "1292133963452968961",
+              "start": 13,
+              "username": "3sVs0g9n97TyP66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007330916751094104",
+        "in_reply_to_user_id": "1291122811704971264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007330589926682719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingmengfin @3sVs0g9n97TyP66 没骂过？你继续你继续吧，我精分我自杀你要比谁更权威吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291122811704971264",
+        "conversation_id": "2007309519223959714",
+        "created_at": "2026-01-03T05:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007330589926682719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292133963452968961",
+              "start": 0,
+              "username": "3sVs0g9n97TyP66"
+            },
+            {
+              "end": 27,
+              "id": "2007104134466736129",
+              "start": 17,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007330589926682719",
+        "in_reply_to_user_id": "1292133963452968961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007320877558575128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3sVs0g9n97TyP66 @peipeimao 她私信我道歉了啊，私信过来第一句就是CNM…，本来是误会我道歉删帖了，她一直追着骂，她精神状态不好我也双相啊，从头到尾没骂过一句😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "。",
+        "id": "2007104134466736129",
+        "location": "爱",
+        "name": "裴裴小猫去死了",
+        "pinned_tweet_id": "2007288229364670764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007104758746845186/fPL5oJUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 56,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "username": "peipeimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T21:24:17.000Z",
+        "description": "每天emo中 精品神药收集🐿️ ；",
+        "id": "1291122811704971264",
+        "name": "泠梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844792077462499328/0TxRDFsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 25,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 145
+        },
+        "username": "lingmengfin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T16:22:07.000Z",
+        "description": "#./¥？#¥$%",
+        "id": "1292133963452968961",
+        "location": "Guangdong",
+        "name": "鱼骨Y.M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983181101771436033/RALMtPQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "3sVs0g9n97TyP66",
+        "verified": false
+      }
+    ]
+  }
+}

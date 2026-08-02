@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2063319941298987008"
+      ]
+    },
+    "author_id": "2007104134466736129",
+    "conversation_id": "2063320051013550371",
+    "created_at": "2026-06-06T18:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063320051013550371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMC2mrgGs7",
+          "end": 28,
+          "expanded_url": "https://x.com/peipeimao/status/2063320051013550371/photo/1",
+          "media_key": "16_2063319941298987008",
+          "start": 5,
+          "url": "https://t.co/rMC2mrgGs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063320051013550371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看我忧郁 https://t.co/rMC2mrgGs7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2063319941298987008",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKJijf8bIAA9bF_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKJijf8bIAA9bF_.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063319941298987008"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2063320051013550371",
+        "created_at": "2026-06-06T18:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063320051013550371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMC2mrgGs7",
+              "end": 28,
+              "expanded_url": "https://x.com/peipeimao/status/2063320051013550371/photo/1",
+              "media_key": "16_2063319941298987008",
+              "start": 5,
+              "url": "https://t.co/rMC2mrgGs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063320051013550371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我忧郁 https://t.co/rMC2mrgGs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n🚪128好友位日常陪聊/520我爱你/1314电子女友",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057108101615190016/1KBTeWK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 167,
+          "like_count": 633,
+          "listed_count": 13,
+          "media_count": 100,
+          "tweet_count": 1829
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}
